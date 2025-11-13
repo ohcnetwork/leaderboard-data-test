@@ -1,0 +1,167 @@
+[
+  {
+    "slug": "comment_created_care#3356_IC_kwDODsgdF87SSjpy",
+    "contributor": "vigneshhari",
+    "activity_definition": "comment_created",
+    "title": "Commented on #3356",
+    "occured_at": "2025-11-13T08:57:22.000Z",
+    "link": "https://github.com/ohcnetwork/care/pull/3356#issuecomment-3528079986",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care#3344_IC_kwDODsgdF87QsRH_",
+    "contributor": "vigneshhari",
+    "activity_definition": "comment_created",
+    "title": "Commented on #3344",
+    "occured_at": "2025-11-07T02:58:31.000Z",
+    "link": "https://github.com/ohcnetwork/care/pull/3344#issuecomment-3501265407",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care#3354_APPROVED_PRR_kwDODsgdF87N0ga1",
+    "contributor": "vigneshhari",
+    "activity_definition": "pr_reviewed",
+    "title": "Approved PR #3354",
+    "occured_at": "2025-11-12T06:35:06.000Z",
+    "link": "https://github.com/ohcnetwork/care/pull/3354#pullrequestreview-3453093557",
+    "text": "Add 'net_content' to ordering fields in InventoryItemViewSet",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care#3335",
+    "contributor": "vigneshhari",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #3335",
+    "occured_at": "2025-11-01T04:34:07.000Z",
+    "link": "https://github.com/ohcnetwork/care/pull/3335",
+    "text": "Amjith's Odoo",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care#3314_APPROVED_PRR_kwDODsgdF87NN7_g",
+    "contributor": "vigneshhari",
+    "activity_definition": "pr_reviewed",
+    "title": "Approved PR #3314",
+    "occured_at": "2025-11-10T06:59:41.000Z",
+    "link": "https://github.com/ohcnetwork/care/pull/3314#pullrequestreview-3442982880",
+    "text": "Test cases for supply request api",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care#3321_CHANGES_REQUESTED_PRR_kwDODsgdF87LKWe4",
+    "contributor": "vigneshhari",
+    "activity_definition": "pr_reviewed",
+    "title": "Changes requested on PR #3321",
+    "occured_at": "2025-11-02T03:41:31.000Z",
+    "link": "https://github.com/ohcnetwork/care/pull/3321#pullrequestreview-3408488376",
+    "text": "adding configrable limit to patient name",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care#3321_APPROVED_PRR_kwDODsgdF87NN569",
+    "contributor": "vigneshhari",
+    "activity_definition": "pr_reviewed",
+    "title": "Approved PR #3321",
+    "occured_at": "2025-11-10T06:57:59.000Z",
+    "link": "https://github.com/ohcnetwork/care/pull/3321#pullrequestreview-3442974397",
+    "text": "adding configrable limit to patient name",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care#3326_APPROVED_PRR_kwDODsgdF87NN4gg",
+    "contributor": "vigneshhari",
+    "activity_definition": "pr_reviewed",
+    "title": "Approved PR #3326",
+    "occured_at": "2025-11-10T06:56:40.000Z",
+    "link": "https://github.com/ohcnetwork/care/pull/3326#pullrequestreview-3442968608",
+    "text": "Added make commands to switch to test db during playwright tests",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care#3350_CHANGES_REQUESTED_PRR_kwDODsgdF87NN3KP",
+    "contributor": "vigneshhari",
+    "activity_definition": "pr_reviewed",
+    "title": "Changes requested on PR #3350",
+    "occured_at": "2025-11-10T06:56:11.000Z",
+    "link": "https://github.com/ohcnetwork/care/pull/3350#pullrequestreview-3442963087",
+    "text": "Added validation for sync charge item costs",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care#3190_CHANGES_REQUESTED_PRR_kwDODsgdF869ZTgV",
+    "contributor": "vigneshhari",
+    "activity_definition": "pr_reviewed",
+    "title": "Changes requested on PR #3190",
+    "occured_at": "2025-09-02T12:04:40.000Z",
+    "link": "https://github.com/ohcnetwork/care/pull/3190#pullrequestreview-3177527317",
+    "text": "Test cases for activity definitions",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care#3190_APPROVED_PRR_kwDODsgdF87NN1pr",
+    "contributor": "vigneshhari",
+    "activity_definition": "pr_reviewed",
+    "title": "Approved PR #3190",
+    "occured_at": "2025-11-10T06:54:06.000Z",
+    "link": "https://github.com/ohcnetwork/care/pull/3190#pullrequestreview-3442956907",
+    "text": "Test cases for activity definitions",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care#3091_APPROVED_PRR_kwDODsgdF87NN1Lh",
+    "contributor": "vigneshhari",
+    "activity_definition": "pr_reviewed",
+    "title": "Approved PR #3091",
+    "occured_at": "2025-11-10T06:53:42.000Z",
+    "link": "https://github.com/ohcnetwork/care/pull/3091#pullrequestreview-3442954977",
+    "text": "Api test cases for organisation apis",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care#3067_APPROVED_PRR_kwDODsgdF87NN0p5",
+    "contributor": "vigneshhari",
+    "activity_definition": "pr_reviewed",
+    "title": "Approved PR #3067",
+    "occured_at": "2025-11-10T06:53:18.000Z",
+    "link": "https://github.com/ohcnetwork/care/pull/3067#pullrequestreview-3442952825",
+    "text": "Test cases for the roles api",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care#3346_CHANGES_REQUESTED_PRR_kwDODsgdF87Mk-TT",
+    "contributor": "vigneshhari",
+    "activity_definition": "pr_reviewed",
+    "title": "Changes requested on PR #3346",
+    "occured_at": "2025-11-07T03:05:31.000Z",
+    "link": "https://github.com/ohcnetwork/care/pull/3346#pullrequestreview-3432244435",
+    "text": "tag metric: support for multi condition interpretation",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_main_1311a751249d6be4b5baf46adfbd5652962e1adb",
+    "contributor": "vigneshhari",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to main",
+    "occured_at": "2025-11-10T14:25:35.000Z",
+    "link": "https://github.com/ohcnetwork/analytics_plug/commit/1311a751249d6be4b5baf46adfbd5652962e1adb",
+    "text": "Raise correct error",
+    "points": null,
+    "meta": {}
+  }
+]

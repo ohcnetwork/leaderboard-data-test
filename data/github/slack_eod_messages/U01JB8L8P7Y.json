@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1762411367183,
+    "user_id": "U01JB8L8P7Y",
+    "timestamp": "2025-11-06T01:12:47.183Z",
+    "text": "Nov 5<br>• Huddle with Amrutha to guide on ABDM demo<br>• Discussion with Aakash about a bug in ABDM signal<br>• Fixed a couple of sentry issues in ABDM (<a href=\"https://github.com/10bedicu/care_abdm/pull/54\">#54</a>)<br>• Minor discussion with Nihal and Sam on discharge disposition required behaviour <br>• Tried fixing the toast issue in plugs (tried multiple versions, no luck)<br>Next<br>• Complete <a href=\"https://github.com/ohcnetwork/care_fe/issues/14236\">#14236</a> and <a href=\"https://github.com/ohcnetwork/care_fe/issues/14242\">#14242</a><br>• Plugin registry implementation"
+  },
+  {
+    "id": 1762493756180,
+    "user_id": "U01JB8L8P7Y",
+    "timestamp": "2025-11-07T00:05:56.180Z",
+    "text": "Nov 6<br>• Call with Amrutha going over things for ka demo (abdm, nhcx, upi payments)<br>• Huddle with Shivank to try out live razorpay creds for ka demo (did not work)<br>• Worked on Plugin Registry<br>    ◦ Created static json structure for commonly used plugs<br>    ◦ Partially expanded on dynamic plug poc (added support for rendering plug pages)<br>Next<br>• Try to complete minimum working version of plugin registry<br>• Complete <a href=\"https://github.com/ohcnetwork/care_fe/issues/14236\">#14236</a> and <a href=\"https://github.com/ohcnetwork/care_fe/issues/14242\">#14242</a><br>• Sort out making discharge disposition mandatory<br>• Pass frontend plug envs via care core"
+  },
+  {
+    "id": 1762756005912,
+    "user_id": "U01JB8L8P7Y",
+    "timestamp": "2025-11-10T00:56:45.912Z",
+    "text": "Nov 7<br>• Deployed ABDM PHR in teleicu instance<br>• Raised a PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/14268\">14268</a> for making discharge disposition mandatory<br>• Made translations dynamic in dynamic plugs poc PR<br>• Dropped the plugin registry idea and will be moving on with dynamic plugs<br>"
+  },
+  {
+    "id": 1762831881922,
+    "user_id": "U01JB8L8P7Y",
+    "timestamp": "2025-11-10T22:01:21.922Z",
+    "text": "Nov 10<br>• Followed up on feedbacks on <a href=\"https://github.com/ohcnetwork/care_fe/pull/14268\">#14268</a><br>• Huddle with Yaswanth to discuss Playwright tests<br>• Meeting with Amrutha to help out with ABDM demo setup and recordings<br>Next<br>• Add Scan and share in PHR<br>• Scan and share as TokenQueue"
+  },
+  {
+    "id": 1762926329513,
+    "user_id": "U01JB8L8P7Y",
+    "timestamp": "2025-11-12T00:15:29.513Z",
+    "text": "Nov 11<br>• Added scan and share functionality in PHR<br>Next<br>• Scan and share as a token queue"
+  },
+  {
+    "id": 1763003002996,
+    "user_id": "U01JB8L8P7Y",
+    "timestamp": "2025-11-12T21:33:22.996Z",
+    "text": "Nov 12<br>• Fixed 2 ABDM related recurring issues on Sentry in v3 instances<br>• Huddle with Amrutha to walk over the ABDM demo flow<br>• Fixed issues noticed during the demo rehearsal with Amrutha<br>Next<br>• Scan and share as a token queue<br>• Final walk through of ABDM demo with Amrutha<br>• Go over the assigned issues across all the repos and plan accordingly"
+  }
+]

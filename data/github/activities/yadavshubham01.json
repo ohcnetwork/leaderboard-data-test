@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "issue_assigned_care_fe#13408_yadavshubham01",
+    "contributor": "yadavshubham01",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #13408 assigned",
+    "occured_at": "2025-08-18T09:27:20.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13408",
+    "text": "Add archive for roles",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#12550_yadavshubham01",
+    "contributor": "yadavshubham01",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #12550 assigned",
+    "occured_at": "2025-06-09T05:00:36.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/12550",
+    "text": "Highlight Active Section/Question Being Edited in Questionnaire Editor",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#13131_yadavshubham01",
+    "contributor": "yadavshubham01",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #13131 assigned",
+    "occured_at": "2025-11-08T08:17:33.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13131",
+    "text": " Refactor Permission System to Use Enums for Improved Type Safety",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#13851_IC_kwDODtfaXs7R8h0G",
+    "contributor": "yadavshubham01",
+    "activity_definition": "comment_created",
+    "title": "Commented on #13851",
+    "occured_at": "2025-11-12T09:14:07.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/13851#issuecomment-3522305286",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14200_IC_kwDODtfaXs7R7L-O",
+    "contributor": "yadavshubham01",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14200",
+    "occured_at": "2025-11-12T07:59:40.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14200#issuecomment-3521953678",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#13851_IC_kwDODtfaXs7RP0hP",
+    "contributor": "yadavshubham01",
+    "activity_definition": "comment_created",
+    "title": "Commented on #13851",
+    "occured_at": "2025-11-10T04:33:33.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/13851#issuecomment-3510585423",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#13851_IC_kwDODtfaXs7QfYHF",
+    "contributor": "yadavshubham01",
+    "activity_definition": "comment_created",
+    "title": "Commented on #13851",
+    "occured_at": "2025-11-06T10:09:18.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/13851#issuecomment-3497886149",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#13851",
+    "contributor": "yadavshubham01",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #13851",
+    "occured_at": "2025-09-25T08:10:30.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/13851",
+    "text": "Refactor: Update Roleform and add Archived Status in Form",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#13851_COMMENTED_PRR_kwDODtfaXs7DhSZI",
+    "contributor": "yadavshubham01",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #13851",
+    "occured_at": "2025-09-29T09:20:33.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/13851#pullrequestreview-3280283208",
+    "text": "Refactor: Update Roleform and add Archived Status in Form",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14289",
+    "contributor": "yadavshubham01",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14289",
+    "occured_at": "2025-11-10T04:29:50.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14289",
+    "text": "fix: Refactor Permission System to Use Enums for Improved Type Safety",
+    "points": null,
+    "meta": {}
+  }
+]

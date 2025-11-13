@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "issue_assigned_care_fe#13978_tellmeY18",
+    "contributor": "tellmeY18",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #13978 assigned",
+    "occured_at": "2025-10-31T05:23:44.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13978",
+    "text": "Request of changes on address section of patient registration page.",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_gh-pages_cb693e965aeabfdf537c2a3998023894ed01ed95",
+    "contributor": "tellmeY18",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to gh-pages",
+    "occured_at": "2025-11-08T13:09:56.000Z",
+    "link": "https://github.com/ohcnetwork/care_sbom/commit/cb693e965aeabfdf537c2a3998023894ed01ed95",
+    "text": "deploy: 01e6cf8719a4c07645e942e9041d455707520505",
+    "points": null,
+    "meta": {}
+  }
+]

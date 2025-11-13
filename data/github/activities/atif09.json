@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "issue_opened_care_fe#14212",
+    "contributor": "atif09",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14212",
+    "occured_at": "2025-11-01T06:09:23.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14212",
+    "text": "Fix React Fragment Validation error in EncounterProvider trigger prop",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#14212_atif09",
+    "contributor": "atif09",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14212 assigned",
+    "occured_at": "2025-11-01T10:33:32.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14212",
+    "text": "Fix React Fragment Validation error in EncounterProvider trigger prop",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14217",
+    "contributor": "atif09",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14217",
+    "occured_at": "2025-11-01T12:59:13.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14217",
+    "text": "fix: replacing empty fragment with null in trigger prop",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_merged_care_fe#14217",
+    "contributor": "atif09",
+    "activity_definition": "pr_merged",
+    "title": "Merged pull request #14217",
+    "occured_at": "2025-11-06T18:51:12.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14217",
+    "text": "fix: replacing empty fragment with null in trigger prop",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_copilot/fix-info-text-alignment-mobile_bc77a42ea392c3277f0bc4b6170346879e618bd9",
+    "contributor": "atif09",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to copilot/fix-info-text-alignment-mobile",
+    "occured_at": "2025-11-06T18:51:11.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/bc77a42ea392c3277f0bc4b6170346879e618bd9",
+    "text": "fix: replacing empty fragment with null in trigger prop (#14217)",
+    "points": null,
+    "meta": {}
+  }
+]

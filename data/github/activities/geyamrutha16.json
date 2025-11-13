@@ -1,0 +1,156 @@
+[
+  {
+    "slug": "issue_opened_care_fe#13691",
+    "contributor": "geyamrutha16",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #13691",
+    "occured_at": "2025-09-11T20:42:32.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13691",
+    "text": "Improve UI of View Encounter Page in Mobile View",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#14025",
+    "contributor": "geyamrutha16",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14025",
+    "occured_at": "2025-10-10T01:00:27.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14025",
+    "text": "“Last Active” Label Extends Outside User Card",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#14040",
+    "contributor": "geyamrutha16",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14040",
+    "occured_at": "2025-10-12T02:29:56.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14040",
+    "text": "Inconsistent validation behaviors in the Discount Monetary Components",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#14021",
+    "contributor": "geyamrutha16",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14021",
+    "occured_at": "2025-10-09T11:44:12.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14021",
+    "text": "Proper Validation for DiscountCodeForm to Prevent Whitespace-Only Inputs",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#13463_geyamrutha16",
+    "contributor": "geyamrutha16",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #13463 assigned",
+    "occured_at": "2025-10-29T06:22:17.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13463",
+    "text": "Validation error persists after changing Contact Point type in Add Device form",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#14040_geyamrutha16",
+    "contributor": "geyamrutha16",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14040 assigned",
+    "occured_at": "2025-10-12T13:16:13.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14040",
+    "text": "Inconsistent validation behaviors in the Discount Monetary Components",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#14021_geyamrutha16",
+    "contributor": "geyamrutha16",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14021 assigned",
+    "occured_at": "2025-10-21T02:58:56.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14021",
+    "text": "Proper Validation for DiscountCodeForm to Prevent Whitespace-Only Inputs",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14115",
+    "contributor": "geyamrutha16",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14115",
+    "occured_at": "2025-10-23T10:05:32.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14115",
+    "text": "Fix: Proper Validation for DiscountCodeForm to Prevent Whitespace-Onl…",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14061",
+    "contributor": "geyamrutha16",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14061",
+    "occured_at": "2025-10-15T12:58:52.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14061",
+    "text": "Add category component in Charge Item Definition retains validation errors on closing #14046",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_merged_care_fe#14115",
+    "contributor": "geyamrutha16",
+    "activity_definition": "pr_merged",
+    "title": "Merged pull request #14115",
+    "occured_at": "2025-11-06T18:44:43.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14115",
+    "text": "Fix: Proper Validation for DiscountCodeForm to Prevent Whitespace-Onl…",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14115_COMMENTED_PRR_kwDODtfaXs7JchvU",
+    "contributor": "geyamrutha16",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #14115",
+    "occured_at": "2025-10-24T23:42:21.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14115#pullrequestreview-3379698644",
+    "text": "Fix: Proper Validation for DiscountCodeForm to Prevent Whitespace-Onl…",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14115_COMMENTED_PRR_kwDODtfaXs7Jcjk2",
+    "contributor": "geyamrutha16",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #14115",
+    "occured_at": "2025-10-24T23:51:09.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14115#pullrequestreview-3379706166",
+    "text": "Fix: Proper Validation for DiscountCodeForm to Prevent Whitespace-Onl…",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14115_COMMENTED_PRR_kwDODtfaXs7JkzSI",
+    "contributor": "geyamrutha16",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #14115",
+    "occured_at": "2025-10-27T00:06:58.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14115#pullrequestreview-3381867656",
+    "text": "Fix: Proper Validation for DiscountCodeForm to Prevent Whitespace-Onl…",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_copilot/fix-info-text-alignment-mobile_1327e866009a10e372df01720a4fab8b6bcbcb21",
+    "contributor": "geyamrutha16",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to copilot/fix-info-text-alignment-mobile",
+    "occured_at": "2025-11-06T18:44:42.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/1327e866009a10e372df01720a4fab8b6bcbcb21",
+    "text": "Trim whitespace in DiscountCodeForm before validation (#14115)",
+    "points": null,
+    "meta": {}
+  }
+]

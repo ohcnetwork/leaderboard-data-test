@@ -1,0 +1,13 @@
+[
+  {
+    "slug": "issue_opened_care_fe#13293",
+    "contributor": "dpnkr1",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #13293",
+    "occured_at": "2025-08-07T00:52:16.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13293",
+    "text": "On initiate patient encounter option, future dates are selectable for all the status types.",
+    "points": null,
+    "meta": {}
+  }
+]

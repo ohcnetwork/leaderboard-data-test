@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1762443381674,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-11-06T10:06:21.674Z",
+    "text": "<strong>Nov 6</strong><br>• Updated ‘Medication Prescribed’ drilldown in the Arike dashboard with new filters (all patients, distinct patients &amp;amp; deceased patients).<br>• Created card and drilldown for &#x27;Patients Referred to Secondary Unit or NGO&#x27; from comfort_devices category <br>• Created card and drilldown for &#x27;Patients Referred to Secondary Unit or NGO&#x27; from patient_care category<br>• Added facility-level filters for these cards and drilldowns<br>• <span class=\"s-emoji\">🎧</span> Huddle with Rohit, Sona<strong>,</strong> and Merrin regarding the Finance tab in the Arike dashboard."
+  },
+  {
+    "id": 1762526727286,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-11-07T09:15:27.286Z",
+    "text": "Nov 7<br>• Replaced &#x27;remarks&#x27; filters with &#x27;alerts&#x27; filter in all drilldowns in Care and Social tabs of Arike Daily Dashboard<br>• Added &#x27;others&#x27; col &amp;amp; filter to all drilldowns in Care &amp;amp; Social tabs of Arike Daily Dashboard "
+  },
+  {
+    "id": 1762828606798,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-11-10T21:06:46.798Z",
+    "text": "Nov 10<br>• Updated &#x27;Medication prescribed&#x27; drilldown in care tab of arike dashboard<br>• Updated col &#x27;special_visit&#x27; of all drilldowns I&#x27;m Arike daily dashboard "
+  },
+  {
+    "id": 1762918397579,
+    "user_id": "U08LE5LFYNA",
+    "timestamp": "2025-11-11T22:03:17.579Z",
+    "text": "Nov 11<br>• Updated queries and drilldowns to add columns &#x27;alerts&#x27; and &#x27;others&#x27; from tags to all cards in Ops1 and Ops2 tabs of Arike Daily Dashboard"
+  }
+]

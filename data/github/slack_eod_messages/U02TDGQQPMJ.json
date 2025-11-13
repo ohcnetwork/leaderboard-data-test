@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1762408823004,
+    "user_id": "U02TDGQQPMJ",
+    "timestamp": "2025-11-06T00:30:23.004Z",
+    "text": "<strong>nov 5</strong><br>• worked on leaderboard scraper<br><strong>next</strong><br>• leaderboard"
+  },
+  {
+    "id": 1762491678408,
+    "user_id": "U02TDGQQPMJ",
+    "timestamp": "2025-11-06T23:31:18.408Z",
+    "text": "<strong>nov 6</strong><br>• spent little time on leaderboard scraper<br>• wrote a new script to upload inventory items to pallium<br><strong>next</strong><br>• leaderboard"
+  },
+  {
+    "id": 1762622778210,
+    "user_id": "U02TDGQQPMJ",
+    "timestamp": "2025-11-08T11:56:18.210Z",
+    "text": "<strong>nov 7</strong><br>• <a href=\"https://github.com/ohcnetwork/care_fe/pull/14266\">#14266</a>: pre-select first slot of the day when booking an appointment<br>• <a href=\"https://github.com/ohcnetwork/care_fe/pull/14275\">#14275</a>: disable query retries in tanstack query client<br>• <a href=\"https://github.com/ohcnetwork/care_fe/pull/14269\">#14269</a>, <a href=\"https://github.com/ohcnetwork/care_fe/pull/14277\">#14277</a>: fix encounter scroll overflow issue using css variables to account for conditional offsets.<br>• leaderboard configuration related and scraper related works... and discussions w. <span class=\"s-mention s-user\">@U083HFWFESD</span> on things she was working on<br>• attended eod call<br><strong>next</strong><br>• leaderboard"
+  },
+  {
+    "id": 1762754043415,
+    "user_id": "U02TDGQQPMJ",
+    "timestamp": "2025-11-10T00:24:03.415Z",
+    "text": "<strong>nov 8, 9</strong><br>• worked on leaderboard scraper and config.<br><strong>next</strong><br>• leaderboard"
+  },
+  {
+    "id": 1762840881365,
+    "user_id": "U02TDGQQPMJ",
+    "timestamp": "2025-11-11T00:31:21.365Z",
+    "text": "<strong>nov 10</strong><br>• worked on leaderboard scraper and ui along w. nikhila, scraper almost completed<br><strong>next</strong><br>• leaderboard ui and other pending works"
+  },
+  {
+    "id": 1762923178097,
+    "user_id": "U02TDGQQPMJ",
+    "timestamp": "2025-11-11T23:22:58.097Z",
+    "text": "<strong>nov 11</strong><br>• <span class=\"s-emoji\">🎧</span> w. <span class=\"s-mention s-user\">@UC99MFPU1</span> <span class=\"s-mention s-user\">@U086E5U2CSJ</span> <span class=\"s-mention s-user\">@U022THM4U2U</span> on identifier config<br>• leaderboard: (<a href=\"https://github.com/ohcnetwork/leaderboard/commits/v2/?since=2025-11-11&amp;until=2025-11-11\">commits</a>)<br>    ◦ people page, activity trend graphs, more theme configurations, activity type metrics, and many more...<br>    ◦ updated all bulk insert operations to be batched<br>    ◦ parallelize gh scraper to reduce time taken for scraper to complete<br>    ◦ updated gh scraper to determine if user is bot or not, added bot as role in leaderboard config, default to hidden<br>    ◦ fixed pglite db failing to init, due to nextjs parallel builds<br>    ◦ wrote slack scraper using slack&#x27;s web-api client.<br>    ◦ script to import roles and slack id&#x27;s from old to new leaderboard<br>    ◦ transform slack&#x27;s eod&#x27;s from slack msg format to markdown format so that it can be cleanly rendered<br>• received notification from cursor on reaching my limits for the first time...<br><strong>next</strong><br>• leaderboard<br><em>see reply for current progress screenshots</em>"
+  },
+  {
+    "id": 1763016636771,
+    "user_id": "U02TDGQQPMJ",
+    "timestamp": "2025-11-13T01:20:36.771Z",
+    "text": "<strong>nov 12</strong><br>• leaderboard: cleanups, planning aggregates and badges, discussions w. aravind / nihal / nikhila on leaderboard<br>• added support for dynamic icons<br><strong>next</strong><br>• leaderboard: import and export db to flat data"
+  }
+]

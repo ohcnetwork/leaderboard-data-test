@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1762437261559,
+    "user_id": "U093J1BPCRZ",
+    "timestamp": "2025-11-06T08:24:21.559Z",
+    "text": "Nov 6<br>• Updated Nurses visit and Death form to include staff name filter<br>• Added facility level filtering for all cards in the facility Dashboard<br>• Reviewed Data points created by Shraddha and gave feedback<br>• Updated &quot;Volunteer Linkage for Bed-Bound Patients&quot; drill down to include facility filter<br>• Updated &quot;Patients Requiring Regular Care&quot; KPI card and drill down to display only latest entry<br>• Updated &quot;Nursing Procedures&quot; to include the question id<br>• Build drill down for total nurse visit and total doctor visit<br>• Long discussion with Rohit, Merrin and Anand regarding Finance tab for Arike Daily Dashboard"
+  },
+  {
+    "id": 1762537103427,
+    "user_id": "U093J1BPCRZ",
+    "timestamp": "2025-11-07T12:08:23.427Z",
+    "text": "Nov 7<br>• Created a new card &quot;Total Count of volunteers&quot;<br>• Created a new card &quot;District wise volunteer Count&quot;<br>• Reviewed Data points created by Darsh and Shraddha and gave feedback<br>• Updated &quot;Volunteer Linkage for Bed-Bound Patients (Yes - No)&quot; KPI card and its drill down with right logic<br>• Huddle with Rohit regarding Patient tag updates<br>• Updated &quot;Patient tags (filter)&quot; to add new patients tags<br>• Updated few cards in Arike Daily Dashboard with new patient tags<br>• Huddle with Aravind regarding Kerala Care Dashboard<br>• Updated all KPI cards in facility dashboard with facility id filter"
+  },
+  {
+    "id": 1762847359862,
+    "user_id": "U093J1BPCRZ",
+    "timestamp": "2025-11-11T02:19:19.862Z",
+    "text": "Nov 10<br>• Attended Weekly Engineering call<br>• Meet with NHM regarding Kerala care Dashboard<br>• Meet with Pallium regarding their dashboard requirements<br>• Updated all the cards in  Kerala Care Dashboard<br>• Huddle with Aravind regarding Kerala Care Dashboard"
+  },
+  {
+    "id": 1762927570329,
+    "user_id": "U093J1BPCRZ",
+    "timestamp": "2025-11-12T00:36:10.329Z",
+    "text": "Nov 11<br>• Updated &#x27;Intensive Care&#x27; drill down for the Arike Activity Dashboard<br>• Added staff name for &#x27;Patients - Care Provided&#x27; drill down<br>• Multiple calls with Aravind regarding Kerala care dashboard<br>• Updated Diagnosis Split across patients for facility dashboard<br>• Updated Patients registered, total live patients and few others<br>"
+  },
+  {
+    "id": 1763011683357,
+    "user_id": "U093J1BPCRZ",
+    "timestamp": "2025-11-12T23:58:03.357Z",
+    "text": "Nov 12<br>• Updated Patient tags card to add new patient tags<br>• Updated symptoms and diagnosis drill down to include new patient tags<br>• Added a new card &quot;Zonal Load (f3/f4)&quot; to the Arike activity Dashboard<br>• Huddle with Rohit and Vignesh<br>• Added a new card &quot;Zonal Load (appointments) to Arike Dashboard<br>• Build drill down for both of them<br>• Updated Diagnosis Split across patients in facility dashboard"
+  }
+]

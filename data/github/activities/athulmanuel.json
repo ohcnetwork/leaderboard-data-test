@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "issue_opened_care_fe#11566",
+    "contributor": "athulmanuel",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #11566",
+    "occured_at": "2025-03-25T23:50:18.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/11566",
+    "text": "Landing page for patient profile",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#11566_athulmanuel",
+    "contributor": "athulmanuel",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #11566 assigned",
+    "occured_at": "2025-03-25T23:50:21.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/11566",
+    "text": "Landing page for patient profile",
+    "points": null,
+    "meta": {}
+  }
+]

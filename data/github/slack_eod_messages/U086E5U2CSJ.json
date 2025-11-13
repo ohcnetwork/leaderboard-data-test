@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1762404294122,
+    "user_id": "U086E5U2CSJ",
+    "timestamp": "2025-11-05T23:14:54.122Z",
+    "text": "<strong>Nov 5</strong><br>• <em>Slow day</em><br>• Attended Weekly DPG Call<br>• Attended EOD Call<br>• Helped <span class=\"s-mention s-user\">@U07SXGJNKJA</span> clarify a few doubts regarding the change item in consultation<br>• <span class=\"s-mention s-user\">@U093DK2UVV2</span> pointed out an accessibility issue across care<br>• Multiple huddles to clarify queries for Niram with <span class=\"s-mention s-user\">@U095LRJJCAE</span> <br>• Worked on Patient Identifier <br>Next<br>• Get the PRs Reviewed<br>• Arike Pharmacy <br>"
+  },
+  {
+    "id": 1762495022249,
+    "user_id": "U086E5U2CSJ",
+    "timestamp": "2025-11-07T00:27:02.249Z",
+    "text": "Nov 6<br>• <span class=\"s-emoji\">🎧</span> w. <span class=\"s-mention s-user\">@U08PN8QTCMN</span> debugging definitional in product Knowledge<br>• <span class=\"s-emoji\">🎧</span> w. <span class=\"s-mention s-user\">@U07PUJLCSH1</span> on Arike Pharmacy and few queries <br>• Made changes to <a href=\"https://github.com/ohcnetwork/care_fe/pull/14162\">PR 14162</a><br>• Uploaded Inventory Items to Arike Care (10/13, 3 pending)<br>• Bus to kochi <br>Next<br>• Look into the request changes "
+  },
+  {
+    "id": 1762777856247,
+    "user_id": "U086E5U2CSJ",
+    "timestamp": "2025-11-10T07:00:56.247Z",
+    "text": "Nov 7<br>• Back to office :care:<br>• Worked on the <a href=\"https://github.com/ohcnetwork/care_fe/pull/14098\">PR  #14098</a> <br>• Worked on the <a href=\"https://github.com/ohcnetwork/care_fe/pull/14122\">PR  #14122</a> <br>• Worked on the <a href=\"https://github.com/ohcnetwork/care_fe/pull/14162\">PR  #14162</a> <br>• Made PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/14278\">care_fe#14278</a>: fix: improve text wrapping for encounter class description (fixing the issue in old browser)<br>• Uploaded remaining inventory items to Arike Care<br>• <br>Nov 8<br>• Looked into the logic for an assigned <a href=\"https://github.com/ohcnetwork/care_fe/issues/14267\">issue</a><br>• Attended EOD call <br>"
+  },
+  {
+    "id": 1762847351920,
+    "user_id": "U086E5U2CSJ",
+    "timestamp": "2025-11-11T02:19:11.920Z",
+    "text": "Nov 10<br>• Attended Weekly Eng. Call  <br>• Worked on the <a href=\"https://github.com/ohcnetwork/care_fe/pull/14162\">PR  #14162</a> <br>• Made PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/14284\">care_fe#14284</a>: feat: enhance DispenseDrawer with account query and invoice sheet integration<br>• Created issue <a href=\"https://github.com/ohcnetwork/care_fe/issues/14285\">care_fe#14285</a>: Refactor Encounter shortcut to use new shortcut system<br>• Created issue <a href=\"https://github.com/ohcnetwork/care_fe/issues/14291\">care_fe#14291</a>: Chrome 109 Not Detected as Unsupported Browser<br>• Merged PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/14284\">care_fe#14284</a>: feat: enhance DispenseDrawer with account query and invoice sheet integration<br>Next<br>• Look into patient Identifier filter "
+  },
+  {
+    "id": 1762928452259,
+    "user_id": "U086E5U2CSJ",
+    "timestamp": "2025-11-12T00:50:52.259Z",
+    "text": "Nov 11<br>• Merged PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/14162\">care_fe#14162</a>: Playwright Test: Product Knowledge &amp;amp; Charge Item Definitions &amp;amp; related changes<br>• Discussion with <span class=\"s-mention s-user\">@U093J1BPCRZ</span> regarding dashboard queries <br>• Looked into Patient Identifier filter <br>• <span class=\"s-emoji\">🎧</span> w. <span class=\"s-mention s-user\">@UC99MFPU1</span> <span class=\"s-mention s-user\">@U02TDGQQPMJ</span> <span class=\"s-mention s-user\">@U022THM4U2U</span> on identifier config<br>• <span class=\"s-emoji\">🎧</span> w. <span class=\"s-mention s-user\">@U07NP23BWQH</span> regarding <code>Filter by Identifier</code> design <br>• Made PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/14298\">care_fe#14298</a>: Refactor: PatientIdentifierFilter<br>Next<br>• EOD Call<br>• Weekly DPG Call<br>• Lookinto open PRs<br>"
+  },
+  {
+    "id": 1763012944277,
+    "user_id": "U086E5U2CSJ",
+    "timestamp": "2025-11-13T00:19:04.277Z",
+    "text": "Nov 12<br>• Made PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/14313\">care_fe#14313</a>: Add ordering parameter to inventory<br>• Made PR <a href=\"https://github.com/ohcnetwork/care/pull/3354\">care#3354</a>: Add &#x27;net_content&#x27; to ordering fields in InventoryItemViewSet<br>• Made PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/14311\">care_fe#14311</a>: Add version field to cloned questionnaire data<br>• Made PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/14308\">care_fe#14308</a>: Replace autocomplete with ResourceDefinitionCategoryPicker in ChargeItem questionnaire<br>• Created issue <a href=\"https://github.com/ohcnetwork/care_fe/issues/14310\">care_fe#14310</a>: Unable to clone a Questionnaire<br>• Merged PR <a href=\"https://github.com/ohcnetwork/care/pull/3354\">care#3354</a>: Add &#x27;net_content&#x27; to ordering fields in InventoryItemViewSet<br>• Merged PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/14311\">care_fe#14311</a>: Add version field to cloned questionnaire data<br>• Merged PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/14122\">care_fe#14122</a>: Add Playwright tests for creating and managing encounters<br>• Made changes to <a href=\"https://github.com/ohcnetwork/care_fe/pull/14098\">#14098</a><br>• Attended DPG Call<br>• Attended EOD Call<br>Next<br>• Make changes to <a href=\"https://github.com/ohcnetwork/care_fe/pull/14313\">#14313</a><br>• PR review <br>"
+  }
+]

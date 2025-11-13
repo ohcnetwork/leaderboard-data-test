@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "issue_opened_care_fe#13135",
+    "contributor": "hrit2773",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #13135",
+    "occured_at": "2025-07-29T00:16:03.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13135",
+    "text": "Unwanted API calls are triggered by the questions in Questionnaire Preview",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#13135_hrit2773",
+    "contributor": "hrit2773",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #13135 assigned",
+    "occured_at": "2025-08-04T02:23:09.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13135",
+    "text": "Unwanted API calls are triggered by the questions in Questionnaire Preview",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#10679_hrit2773",
+    "contributor": "hrit2773",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #10679 assigned",
+    "occured_at": "2025-05-19T20:42:54.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/10679",
+    "text": "Questionnaire Preview UI Redesign",
+    "points": null,
+    "meta": {}
+  }
+]

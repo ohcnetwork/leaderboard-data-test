@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1762452900495,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-11-06T12:45:00.495Z",
+    "text": "nov 6<br>• reviewed prs "
+  },
+  {
+    "id": 1762539301046,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-11-07T12:45:01.046Z",
+    "text": "nov 7<br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/13867\">Enhancement: Make Encounter switcher collapsible</a><br>• Merged PR: <a href=\"https://github.com/ohcnetwork/care_fe/pull/14093\">Fix: Remove unnecessary validation thrown for edit in healthcare service form</a><br>• Filed issues <a href=\"https://github.com/ohcnetwork/care_fe/issues/14270\">[1]</a> <a href=\"https://github.com/ohcnetwork/landing/issues/109\">[2]</a>"
+  },
+  {
+    "id": 1762625701029,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-11-08T12:45:01.029Z",
+    "text": "nov 8<br>• commented on pr for changes<br>• synced with Anagha over multi selection input redesign "
+  },
+  {
+    "id": 1762798530818,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-11-10T12:45:30.818Z",
+    "text": "nov 10<br>• reviewed prs <br>• replied to some slack threads <br>• fixed test failed <a href=\"https://github.com/ohcnetwork/care_fe/pull/13851#issuecomment-3497796650\">issue</a> in <span class=\"s-mention s-user\">@U08GYM1PJUQ</span> PR "
+  },
+  {
+    "id": 1762884901000,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-11-11T12:45:01.000Z",
+    "text": "nov 11<br>• Weekly review meet <br>• Worked on issue <a href=\"https://github.com/ohcnetwork/care_fe/issues/10924\">Cleanup translation files</a>"
+  },
+  {
+    "id": 1762971300878,
+    "user_id": "U07NGSB2MUP",
+    "timestamp": "2025-11-12T12:45:00.878Z",
+    "text": "nov 12<br>• <span class=\"s-emoji\">🎧</span> w. <span class=\"s-mention s-user\">@U07SXGJNKJA</span> over <a href=\"https://www.figma.com/design/Z93EYKSa1MdBmXndsMBJSQ/Care---Master?node-id=29986-159505&amp;amp;t=DOpMUKmv4jCJf7EL-1\">feature selection component</a> and shared feedback <br>• sync with <span class=\"s-mention s-user\">@U08GYM1PJUQ</span> to make changes for test failed issue <br>• Worked on issue <a href=\"https://github.com/ohcnetwork/care_fe/issues/10924\">Cleanup translation files</a><br>• reviewed prs"
+  }
+]

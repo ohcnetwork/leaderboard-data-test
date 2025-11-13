@@ -1,0 +1,134 @@
+[
+  {
+    "slug": "issue_opened_care_fe#13463",
+    "contributor": "Denyme24",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #13463",
+    "occured_at": "2025-08-21T15:09:51.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13463",
+    "text": "Validation error persists after changing Contact Point type in Add Device form",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#13243",
+    "contributor": "Denyme24",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #13243",
+    "occured_at": "2025-08-04T05:35:14.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13243",
+    "text": "Disable Create/Update Buttons Until Form Changes Are Made Across All Forms",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#14035",
+    "contributor": "Denyme24",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14035",
+    "occured_at": "2025-10-12T01:42:58.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14035",
+    "text": "Search Bar Behavior Issues in Search Patients Page",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#14023",
+    "contributor": "Denyme24",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14023",
+    "occured_at": "2025-10-09T12:43:30.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14023",
+    "text": "validation issues in Product Knowledge form",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#13956",
+    "contributor": "Denyme24",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #13956",
+    "occured_at": "2025-10-03T11:19:29.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13956",
+    "text": "Search Patients – Incorrect \"No Records Found\" Message",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#13953",
+    "contributor": "Denyme24",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #13953",
+    "occured_at": "2025-10-03T10:50:16.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13953",
+    "text": "Patient Search Input Allows Invalid Data Types",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#13243_Denyme24",
+    "contributor": "Denyme24",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #13243 assigned",
+    "occured_at": "2025-10-29T05:55:50.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13243",
+    "text": "Disable Create/Update Buttons Until Form Changes Are Made Across All Forms",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#14035_Denyme24",
+    "contributor": "Denyme24",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14035 assigned",
+    "occured_at": "2025-10-21T02:55:00.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14035",
+    "text": "Search Bar Behavior Issues in Search Patients Page",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#14023_Denyme24",
+    "contributor": "Denyme24",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14023 assigned",
+    "occured_at": "2025-10-14T01:15:38.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14023",
+    "text": "validation issues in Product Knowledge form",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14082",
+    "contributor": "Denyme24",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14082",
+    "occured_at": "2025-10-18T02:12:47.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14082",
+    "text": "refactor: improve validation logic in `ActivityDefinitionForm`",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14082_COMMENTED_PRR_kwDODtfaXs7H1std",
+    "contributor": "Denyme24",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #14082",
+    "occured_at": "2025-10-18T02:23:17.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14082#pullrequestreview-3352742749",
+    "text": "refactor: improve validation logic in `ActivityDefinitionForm`",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14082_COMMENTED_PRR_kwDODtfaXs7H1swo",
+    "contributor": "Denyme24",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #14082",
+    "occured_at": "2025-10-18T02:23:54.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14082#pullrequestreview-3352742952",
+    "text": "refactor: improve validation logic in `ActivityDefinitionForm`",
+    "points": null,
+    "meta": {}
+  }
+]

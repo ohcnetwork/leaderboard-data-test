@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1762403189474,
+    "user_id": "U092G93T6F4",
+    "timestamp": "2025-11-05T22:56:29.474Z",
+    "text": "Nov 5<br>• Got <a href=\"https://github.com/ohcnetwork/care_fe/pull/13934\">PR#13934</a> merged.<br>• Removed playwright tests for above PR because of some issue<br>• Created <a href=\"https://github.com/ohcnetwork/care_fe/issues/14252\">issue#14252</a> Playwright tests for Record Payment Page.<br>• Working on <a href=\"https://github.com/ohcnetwork/care_fe/issues/14252\">issue#14252</a><br>Next<br>• Raise PR for <a href=\"https://github.com/ohcnetwork/care_fe/issues/14252\">issue#14252</a>"
+  },
+  {
+    "id": 1762585587390,
+    "user_id": "U092G93T6F4",
+    "timestamp": "2025-11-08T01:36:27.390Z",
+    "text": "Nov 6<br>• Made changes to previous PR&#x27;s mainly playwright tests.<br>Nov 7<br>• Found and created an <a href=\"https://github.com/ohcnetwork/care_fe/issues/14271\">issue</a> while writing playwright tests<br>• Created <a href=\"https://github.com/ohcnetwork/care_fe/pull/14274\">PR#14274</a> for the issue<br>• Working on changes required for Playwright tests"
+  },
+  {
+    "id": 1762834438327,
+    "user_id": "U092G93T6F4",
+    "timestamp": "2025-11-10T22:43:58.327Z",
+    "text": "Nov 10<br>• Fixed merge conflicts in <a href=\"https://github.com/ohcnetwork/care_fe/pull/14274\">PR#14274</a><br>• Made changes required to playwright tests in <a href=\"https://github.com/ohcnetwork/care_fe/pull/14116\">PR#14116</a><br>• Fixed merge conflicts in <a href=\"https://github.com/ohcnetwork/care_fe/pull/14116\">PR#14116</a><br>• Attended weekly Engineering call<br>"
+  },
+  {
+    "id": 1762920736544,
+    "user_id": "U092G93T6F4",
+    "timestamp": "2025-11-11T22:42:16.544Z",
+    "text": "Nov 11<br>• Fixed merge conflicts and made changes to <a href=\"https://github.com/ohcnetwork/care_fe/pull/14116\">PR#14116</a><br>• Got <a href=\"https://github.com/ohcnetwork/care_fe/issues/14294\">issue#14294</a> assigned to me<br>• made <a href=\"https://github.com/ohcnetwork/care_fe/pull/14297\">PR#14297</a> : Added archive support for system generated patient identifiers<br>• Wrote playwright tests for Patient Identifier Config in admin dashboard<br>Next<br>• Get PRs reviewed and merged<br>"
+  },
+  {
+    "id": 1763005444971,
+    "user_id": "U092G93T6F4",
+    "timestamp": "2025-11-12T22:14:04.971Z",
+    "text": "Nov 12<br>• Got <a href=\"https://github.com/ohcnetwork/care_fe/pull/14274\">PR#14274</a> merged.<br>• Addressed Nihal&#x27;s comments on <a href=\"https://github.com/ohcnetwork/care_fe/pull/14116\">PR#14116</a><br>• Made changes to playwright tests in <a href=\"https://github.com/ohcnetwork/care_fe/pull/14182\">PR#14182</a> (ready for review)<br>Next<br>• Get remaining PRs merged.<br>• Find other issues to work on"
+  }
+]

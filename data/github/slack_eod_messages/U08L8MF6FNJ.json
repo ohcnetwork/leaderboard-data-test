@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1762442596277,
+    "user_id": "U08L8MF6FNJ",
+    "timestamp": "2025-11-06T09:53:16.277Z",
+    "text": "Nov 5 <br>Incorporated the suggestions given by Sona for bedbound card"
+  },
+  {
+    "id": 1762528433604,
+    "user_id": "U08L8MF6FNJ",
+    "timestamp": "2025-11-07T09:43:53.604Z",
+    "text": "Nov 7<br> Added card for non-visited bedbound patients"
+  },
+  {
+    "id": 1762622031857,
+    "user_id": "U08L8MF6FNJ",
+    "timestamp": "2025-11-08T11:43:51.857Z",
+    "text": "Nov 8<br>Created a new dashboard for storing datapoints"
+  },
+  {
+    "id": 1762788485689,
+    "user_id": "U08L8MF6FNJ",
+    "timestamp": "2025-11-10T09:58:05.689Z",
+    "text": "Nov 10<br>Waiting for next task"
+  },
+  {
+    "id": 1762876231685,
+    "user_id": "U08L8MF6FNJ",
+    "timestamp": "2025-11-11T10:20:31.685Z",
+    "text": "Nov 11<br>Coordinated for the next task"
+  },
+  {
+    "id": 1762964149860,
+    "user_id": "U08L8MF6FNJ",
+    "timestamp": "2025-11-12T10:45:49.860Z",
+    "text": "Nov 12<br> Waiting for next task to be assigned"
+  }
+]

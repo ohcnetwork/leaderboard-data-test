@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1762497270905,
+    "user_id": "U0168MBTGL8",
+    "timestamp": "2025-11-07T01:04:30.905Z",
+    "text": "Nov 5<br>• Discussions &amp;amp; follow ups with Visakh on Odoo done &amp;amp; pending items<br>• Testing and making minor changes<br>• Go through flow with Aravind &amp;amp; Nihal for Sudheendra demo<br>Next<br>• Sudheendra demo"
+  },
+  {
+    "id": 1762497442034,
+    "user_id": "U0168MBTGL8",
+    "timestamp": "2025-11-07T01:07:22.034Z",
+    "text": "Nov 6<br>• Sudheendra Odoo demo with Aravind, Vignesh, Gigin, Visakh. <br>• Discussion on flow, find fixes needed, find gaps, take new requirements for HR<br>Next<br>• Pending odoo items"
+  },
+  {
+    "id": 1762752503966,
+    "user_id": "U0168MBTGL8",
+    "timestamp": "2025-11-09T23:58:23.966Z",
+    "text": "Nov 7 (<em>slow day - down with cold</em>)<br>• Discussion with Visakh on Odoo<br>• Changes in Invoice edit PR<br>Next<br>• Pending odoo items"
+  },
+  {
+    "id": 1762866518885,
+    "user_id": "U0168MBTGL8",
+    "timestamp": "2025-11-11T07:38:38.885Z",
+    "text": "Nov 10<br>• Go through Odoo checklist with Visakh, Aravind, Bodhi and get timelines<br>• Few other discussions regarding odoo and other bugs<br>• Made odoo endpoints transactional instead of signals<br>• Trying to get Odoo sudeendhra DO test instance up<br>Next -<br>• Get instance up and test"
+  },
+  {
+    "id": 1762935860489,
+    "user_id": "U0168MBTGL8",
+    "timestamp": "2025-11-12T02:54:20.489Z",
+    "text": "Nov 11<br>• Configure Odoo sudeendhra DO test instance and test<br>• Discussion with Visakh on bugs faced, Aravind regarding odoo stuff<br>• Other huddles with team<br>Next -<br>• Product Commission module not showing up in SSMM - check"
+  },
+  {
+    "id": 1763018748382,
+    "user_id": "U0168MBTGL8",
+    "timestamp": "2025-11-13T01:55:48.382Z",
+    "text": "Nov 12<br>• Fix commission module load in ssmm, which fixed user create<br>• Add multi discount edit support in Invoice Edit PR<br>• Few calls &amp;amp; discussions<br>• PR reviews<br>Next -<br>• Follow up on SSMM instance config<br>• Modify Odoo User create - type based on role<br>• Odoo Mail server"
+  }
+]

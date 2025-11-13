@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1762408102024,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-11-06T00:18:22.024Z",
+    "text": "Nov 5:<br>• playwright test for <a href=\"https://github.com/ohcnetwork/care_fe/pull/13968\">PR#13968</a> <br>• playwright test for <a href=\"https://github.com/ohcnetwork/care_fe/pull/14101\">PR#14101</a> <br>next:<br>• finish writing playwright tests for existing PRs<br>• make suggested changes in existing PRs"
+  },
+  {
+    "id": 1762596506765,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-11-08T04:38:26.765Z",
+    "text": "Nov 7:<br>• worked on playwright test for existing PRs<br>• made changes in <a href=\"https://github.com/ohcnetwork/care_fe/pull/13526\">PR#13526</a> <br>• made changes in <a href=\"https://github.com/ohcnetwork/care_fe/pull/13968\">PR#13968</a> <br>next:<br>• work on playwright tests<br>• make required changes in existing PRs"
+  },
+  {
+    "id": 1762838768224,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-11-10T23:56:08.224Z",
+    "text": "nov 11:<br>• merged pr: <a href=\"https://github.com/ohcnetwork/care_fe/pull/14101\">PR#14101</a> <br>• raised pr: <a href=\"https://github.com/ohcnetwork/care_fe/pull/14288\">PR#14288</a> <br>• made required changes in <a href=\"https://github.com/ohcnetwork/care_fe/pull/14183\">PR#14183</a> <br>• fixed playwright test in <a href=\"https://github.com/ohcnetwork/care_fe/pull/14104\">PR#14104</a> <br>next:<br>• make required changes in existing pr<br>• raise pr on assigned issues"
+  },
+  {
+    "id": 1762925630132,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-11-12T00:03:50.132Z",
+    "text": "nov 11:<br>• attended weekly review call<br>• fixed playwright test in <a href=\"https://github.com/ohcnetwork/care_fe/pull/14015\">PR#14015</a> <br>• worked on <a href=\"https://github.com/ohcnetwork/care_fe/pull/14288\">PR#14288</a> <br>• raised pr: <a href=\"https://github.com/ohcnetwork/care_fe/pull/14299\">PR#14299</a> <br>next:<br>• fix playwright tests<br>• work on assigned issue"
+  },
+  {
+    "id": 1763012154716,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-11-13T00:05:54.716Z",
+    "text": "nov 12:<br>• made changes in <a href=\"https://github.com/ohcnetwork/care_fe/pull/14183\">PR#14183</a> <br>• raised pr: <a href=\"https://github.com/ohcnetwork/care_fe/pull/14299\">PR#14299</a> <br>• raised pr: <a href=\"https://github.com/ohcnetwork/care_fe/pull/14312\">PR#14312</a> <br>next:<br>• work on assigned issues"
+  }
+]

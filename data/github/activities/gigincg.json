@@ -1,0 +1,90 @@
+[
+  {
+    "slug": "issue_opened_care_fe#12909",
+    "contributor": "gigincg",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #12909",
+    "occured_at": "2025-07-14T04:22:57.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/12909",
+    "text": "Refactor: Move Remaining APIs from Central `routes` to Object-Specific API Files along with type cleanup",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#14120",
+    "contributor": "gigincg",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14120",
+    "occured_at": "2025-10-24T05:49:54.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14120",
+    "text": "Show Severity in Diagnosis in Questionnaire and Patient Dashboard",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#11846_gigincg",
+    "contributor": "gigincg",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #11846 assigned",
+    "occured_at": "2025-04-10T05:48:52.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/11846",
+    "text": "Issues in valueset",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#11450_gigincg",
+    "contributor": "gigincg",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #11450 assigned",
+    "occured_at": "2025-04-07T08:20:12.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/11450",
+    "text": "avail option to edit display text for SNOMED codes values",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#11483_gigincg",
+    "contributor": "gigincg",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #11483 assigned",
+    "occured_at": "2025-03-23T11:37:05.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/11483",
+    "text": "FE: Add Components support to Questionnaire",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#13603_COMMENTED_PRR_kwDODtfaXs7NZL2K",
+    "contributor": "gigincg",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #13603",
+    "occured_at": "2025-11-10T20:38:39.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/13603#pullrequestreview-3445931402",
+    "text": "Fix: Clean up missed for encounter and patient types",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#13925_COMMENTED_PRR_kwDODtfaXs7JlJEz",
+    "contributor": "gigincg",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #13925",
+    "occured_at": "2025-10-27T00:46:28.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/13925#pullrequestreview-3381956915",
+    "text": "update other agent instruction files",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_main_27bc389b058e5052961487a29fe5234c7805d8e0",
+    "contributor": "gigincg",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to main",
+    "occured_at": "2025-11-08T06:40:25.000Z",
+    "link": "https://github.com/ohcnetwork/landing/commit/27bc389b058e5052961487a29fe5234c7805d8e0",
+    "text": "Create issue 'Bring Back Missing /careers Page'",
+    "points": null,
+    "meta": {}
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1762409773193,
+    "user_id": "U07NXCASM89",
+    "timestamp": "2025-11-06T00:46:13.193Z",
+    "text": "nov 5<br>• questionnaire enable when<br>next<br>• reviews and circling back on existing PRs/issues"
+  },
+  {
+    "id": 1762497184873,
+    "user_id": "U07NXCASM89",
+    "timestamp": "2025-11-07T01:03:04.873Z",
+    "text": "nov 6<br>• project board discussion/cleanup w/ Aravind<br>• review C4GT intern PR/applications<br>• additional changes to diagnosis severity PR<br>• changes to existing PRs based on feedback<br>next<br>• review BE for report templates"
+  },
+  {
+    "id": 1762620545043,
+    "user_id": "U07NXCASM89",
+    "timestamp": "2025-11-08T11:19:05.043Z",
+    "text": "nov 7<br>• discussions regarding observation interp and discounts<br>    ◦ reworked patient tags for interp (BE &amp;amp; FE)<br>• minor adjustments for diagnosis severity<br>next<br>• adjust inventory based on testing feedback<br>• read thru template docs/api"
+  },
+  {
+    "id": 1762838275564,
+    "user_id": "U07NXCASM89",
+    "timestamp": "2025-11-10T23:47:55.564Z",
+    "text": "nov 10<br>• changes for inventory based on feedback<br>next<br>• template docs/api<br>• reviews"
+  },
+  {
+    "id": 1762921745014,
+    "user_id": "U07NXCASM89",
+    "timestamp": "2025-11-11T22:59:05.014Z",
+    "text": "nov 11<br>• PR reviews<br>• explored reports docs/api and started to work on FE<br>next<br>• work on FE for template/reports"
+  },
+  {
+    "id": 1763019087618,
+    "user_id": "U07NXCASM89",
+    "timestamp": "2025-11-13T02:01:27.618Z",
+    "text": "nov 12<br>• reviews<br>• editing copilot PRs<br>    ◦ fixing bugs discovered while editing these<br>• custom reports UI<br>next<br>• continue w/ editing the PRs + fixing bugs"
+  }
+]

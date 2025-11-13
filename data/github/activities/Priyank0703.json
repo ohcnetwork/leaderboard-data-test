@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "comment_created_care_fe#14310_IC_kwDODtfaXs7R49Lp",
+    "contributor": "Priyank0703",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14310",
+    "occured_at": "2025-11-12T05:34:22.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14310#issuecomment-3521368809",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14303_IC_kwDODtfaXs7R3vyB",
+    "contributor": "Priyank0703",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14303",
+    "occured_at": "2025-11-12T04:22:26.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14303#issuecomment-3521051777",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14305_IC_kwDODtfaXs7R3uaR",
+    "contributor": "Priyank0703",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14305",
+    "occured_at": "2025-11-12T04:20:53.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14305#issuecomment-3521046161",
+    "text": null,
+    "points": null,
+    "meta": {}
+  }
+]

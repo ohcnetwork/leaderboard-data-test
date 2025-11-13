@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "issue_opened_care_fe#13978",
+    "contributor": "Jrl0",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #13978",
+    "occured_at": "2025-10-07T04:41:39.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13978",
+    "text": "Request of changes on address section of patient registration page.",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#13978_Jrl0",
+    "contributor": "Jrl0",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #13978 assigned",
+    "occured_at": "2025-10-31T05:23:54.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13978",
+    "text": "Request of changes on address section of patient registration page.",
+    "points": null,
+    "meta": {}
+  }
+]

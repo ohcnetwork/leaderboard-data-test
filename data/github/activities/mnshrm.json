@@ -1,0 +1,13 @@
+[
+  {
+    "slug": "issue_assigned_care_fe#10924_mnshrm",
+    "contributor": "mnshrm",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #10924 assigned",
+    "occured_at": "2025-03-04T09:16:43.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/10924",
+    "text": "Cleanup translation files",
+    "points": null,
+    "meta": {}
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1762410715741,
+    "user_id": "U08PN8QTCMN",
+    "timestamp": "2025-11-06T01:01:55.741Z",
+    "text": "Nov 5<br>• Attended weekly DPG call<br>• Working on the test for token queue ,had some blockers :)<br>• Connected with <span class=\"s-mention s-user\">@U06L50QL1AQ</span>,went thought some of the templates and report apis<br>Next<br>• PR on token queue tests<br>• Will go though other endpoint of report apis<br>• Tests for token sub queue"
+  },
+  {
+    "id": 1762499835410,
+    "user_id": "U08PN8QTCMN",
+    "timestamp": "2025-11-07T01:47:15.410Z",
+    "text": "Nov 6<br>• Made a <a href=\"https://github.com/ohcnetwork/care/pull/3349\">PR</a> on Test cases for Token queue apis<br>• <span class=\"s-emoji\">🎧</span> w. <span class=\"s-mention s-user\">@U086E5U2CSJ</span> debugging definitional in product knowledge in BE<br>• Made a <a href=\"https://github.com/ohcnetwork/care/pull/3348\">PR</a> - enabled removal of definitional field on product knowledge update<br>• Discussed with <span class=\"s-mention s-user\">@U06L50QL1AQ</span> and went through the report and template apis"
+  },
+  {
+    "id": 1762588022980,
+    "user_id": "U08PN8QTCMN",
+    "timestamp": "2025-11-08T02:17:02.980Z",
+    "text": "Nov 7<br>• Made <a href=\"https://github.com/ohcnetwork/care/pull/3350\">PR</a> on : Added validation for sync charge item costs<br>• Added edge test cases to the exisitng <a href=\"https://github.com/ohcnetwork/care/pull/3349\">PR</a> <br>• Discussed with <span class=\"s-mention s-user\">@U06L50QL1AQ</span> on the <a href=\"https://github.com/ohcnetwork/care/pull/3350\">PR</a><br>• Working on the test cases for token sub queue<br>• Made changes to existing PRs"
+  },
+  {
+    "id": 1762849013130,
+    "user_id": "U08PN8QTCMN",
+    "timestamp": "2025-11-11T02:46:53.130Z",
+    "text": "Nov 10<br>• Made a <a href=\"https://github.com/ohcnetwork/care/pull/3353\">PR</a> on test cases for token sub queue<br>Next<br>• Load patient data for Pallium Instance"
+  },
+  {
+    "id": 1763017332226,
+    "user_id": "U08PN8QTCMN",
+    "timestamp": "2025-11-13T01:32:12.226Z",
+    "text": "Nov 11<br>• Cleaning up data and ETL script for patient bulk import in Pallium instance<br>• Had few <span class=\"s-emoji\">🎧</span> w <span class=\"s-mention s-user\">@U095LRJJCAE</span> &amp; <span class=\"s-mention s-user\">@U02D0NA6RHR</span> on the data import<br>• <span class=\"s-emoji\">🎧</span>w<span class=\"s-mention s-user\">@U02TB8XHZD1</span> and <span class=\"s-mention s-user\">@U06CY7RUZ9S</span> <br>Nov 12<br>• Attended DPG call<br>• Imported datas for Pallium instance<br>• Had few <span class=\"s-emoji\">🎧</span> w <span class=\"s-mention s-user\">@U095LRJJCAE</span> &amp; <span class=\"s-mention s-user\">@U02D0NA6RHR</span> <br>• <span class=\"s-emoji\">🎧</span>w <span class=\"s-mention s-user\">@U0168MBTGL8</span> on configuring ODOO<br>• <span class=\"s-emoji\">🎧</span>w<span class=\"s-mention s-user\">@U02TB8XHZD1</span> discussed on plugin integration<br>• Created plugin for Care-Odoo integration"
+  }
+]

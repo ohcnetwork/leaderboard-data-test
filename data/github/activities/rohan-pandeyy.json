@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "issue_assigned_care_fe#14025_rohan-pandeyy",
+    "contributor": "rohan-pandeyy",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14025 assigned",
+    "occured_at": "2025-10-26T23:25:00.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14025",
+    "text": "“Last Active” Label Extends Outside User Card",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#14120_rohan-pandeyy",
+    "contributor": "rohan-pandeyy",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14120 assigned",
+    "occured_at": "2025-10-25T19:54:27.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14120",
+    "text": "Show Severity in Diagnosis in Questionnaire and Patient Dashboard",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14161",
+    "contributor": "rohan-pandeyy",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14161",
+    "occured_at": "2025-10-28T00:02:34.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14161",
+    "text": "Add 'Severity' field in Diagnosis",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_merged_care_fe#14161",
+    "contributor": "rohan-pandeyy",
+    "activity_definition": "pr_merged",
+    "title": "Merged pull request #14161",
+    "occured_at": "2025-11-10T03:49:28.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14161",
+    "text": "Add 'Severity' field in Diagnosis",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_copilot/fix-info-text-alignment-mobile_706d3f2c55324786fbf5b3a05ab531616f301f3e",
+    "contributor": "rohan-pandeyy",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to copilot/fix-info-text-alignment-mobile",
+    "occured_at": "2025-11-10T03:49:27.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/706d3f2c55324786fbf5b3a05ab531616f301f3e",
+    "text": "Add 'Severity' field in Diagnosis (#14161)",
+    "points": null,
+    "meta": {}
+  }
+]

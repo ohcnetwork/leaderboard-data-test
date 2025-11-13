@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1762369460801,
+    "user_id": "U02TB8XHZD1",
+    "timestamp": "2025-11-05T13:34:20.801Z",
+    "text": "5th Nov:<br>• deployed lab analyzer changes<br>• seeded demo data for lab analyzer demo<br>• made a frontend for mock analyzer"
+  },
+  {
+    "id": 1762502158316,
+    "user_id": "U02TB8XHZD1",
+    "timestamp": "2025-11-07T02:25:58.316Z",
+    "text": "6th Nov<br>• Made changes to the lab analyzer based on feedbacks"
+  },
+  {
+    "id": 1762948022382,
+    "user_id": "U02TB8XHZD1",
+    "timestamp": "2025-11-12T06:17:02.382Z",
+    "text": "11th November<br>• Documented a sample plugin for syncing users from an external idp<br>• Created and tested migration script to migrate patient name identifiers"
+  },
+  {
+    "id": 1763044142228,
+    "user_id": "U02TB8XHZD1",
+    "timestamp": "2025-11-13T08:59:02.228Z",
+    "text": "12th November<br>• Fixed cache issue in prod instances due to patient name identifier changes<br>• Created a <a href=\"https://github.com/ohcnetwork/care-plugin-cookiecutter\">cookiecutter</a> for care backend plugins<br>• Updated docs for the sample user sync plugin<br>• Huddles with nandkishor for finishing the patient data ingest script<br>13th November<br>• Enhnaced care plugin manager to autodetect installed plugins<br>• Worked on multi-level cache (in memory + redis) for model_from_cache<br>"
+  }
+]

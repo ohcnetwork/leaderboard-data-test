@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1762408567868,
+    "user_id": "U095LRJJCAE",
+    "timestamp": "2025-11-06T00:26:07.868Z",
+    "text": "Nov 5<br>• Off-boarded four interns<br>• Attended weekly DPG call<br>• Tracked weekly call attendance and published those<br>• Raised an issue regarding observation definition <a href=\"https://github.com/ohcnetwork/care_fe/issues/14249\">#14249</a><br>• Few calls w <span class=\"s-mention s-user\">@U086E5U2CSJ</span>  to clarify few things regarding medicine dispense<br>• Long call w Mr Shivakumar from Niram regarding encounters, forms etc<br>• Long call w Mr Mahesh from Pallium regarding pharmacy flow and few other doubts he had<br>Next<br>• Make updates on the questionnaire for Niram<br>• Meet w Mr. Mahesh on pharmacy (Pallium)"
+  },
+  {
+    "id": 1762481973236,
+    "user_id": "U095LRJJCAE",
+    "timestamp": "2025-11-06T20:49:33.236Z",
+    "text": "Nov 6<br>• Niram questionnaire updates were made<br>• Created product knowledge and other services in Pallium for trial<br>• Pallium pharmacy stock updated and given to engg team<br>• PRs of candidates for internship from C4GT doc edited and gave to Jeevan for review<br>• Few calls w Shivakumar from Niram regarding their queries<br>• Long call w Mr.Mahesh regarding their pharmacy flow <br>• Few discussions w Amrita and Sam regarding op, inventory etc<br>Next<br>• Candidate from C4GT to be finalized <br>Got an  <span class=\"s-emoji\">👀</span>  infection would not be available today"
+  },
+  {
+    "id": 1762739850381,
+    "user_id": "U095LRJJCAE",
+    "timestamp": "2025-11-09T20:27:30.381Z",
+    "text": "Nov 7<br>• On leave <br>Next<br>• C4GT internship candidate finalisation<br>• Meet w Pallium"
+  },
+  {
+    "id": 1762830368134,
+    "user_id": "U095LRJJCAE",
+    "timestamp": "2025-11-10T21:36:08.134Z",
+    "text": "Nov 10<br>• Meet w Niram regarding the filling of their forms<br>• Attended weekly engineering call<br>• Meet w Pallium regarding their dashboard requirement<br>• Sorted an issue while uploading files w Vysakh<br>• Gave the finalised list of activity definition to Jeevan for SSMM<br>• Attended weekly product meet<br>• Final list of candidates for internship from C4GT given for review <br>Next<br>• Pallium deployment "
+  },
+  {
+    "id": 1762926411588,
+    "user_id": "U095LRJJCAE",
+    "timestamp": "2025-11-12T00:16:51.588Z",
+    "text": "Nov 11<br>• Eod tracking and publishing of interns done<br>• Multiple calls w Niram wrt their forms, patient data etc<br>• Questionnaire updates of Niram done<br>• Setting up of patient ID and few other things for both Niram and Pallium<br>• Long call w the Pallium coordinator <span class=\"s-emoji\">🤯</span><br>• Attended weekly intern meet<br>Next<br>• Pallium deployment <br>"
+  },
+  {
+    "id": 1763012629437,
+    "user_id": "U095LRJJCAE",
+    "timestamp": "2025-11-13T00:13:49.437Z",
+    "text": "Nov 12<br>• Weekly meet attendance tracking done<br>• Tried out the questionnaires for Niram and made changes<br>• Raised an issue for adding sort option in items (inventory) <a href=\"https://github.com/ohcnetwork/care_fe/issues/14302\">#14302</a><br>• Meet w Pallium <br>• Attended weekly DPG meet<br>• Offboarded a full stack intern<br>• Few huddles w <span class=\"s-mention s-user\">@U08PN8QTCMN</span> regarding patient data upload<br>Next<br>• Pallium deployment"
+  }
+]

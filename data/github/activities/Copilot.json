@@ -1,0 +1,123 @@
+[
+  {
+    "slug": "comment_created_care_fe#14319_IC_kwDODtfaXs7SLlzm",
+    "contributor": "Copilot",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14319",
+    "occured_at": "2025-11-13T02:37:22.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14319#issuecomment-3526253798",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14313_IC_kwDODtfaXs7SJ3H2",
+    "contributor": "Copilot",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14313",
+    "occured_at": "2025-11-13T01:14:34.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14313#issuecomment-3525800438",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14315_IC_kwDODtfaXs7SBxM4",
+    "contributor": "Copilot",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14315",
+    "occured_at": "2025-11-12T14:29:37.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14315#issuecomment-3523679032",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14181_IC_kwDODtfaXs7R6pqf",
+    "contributor": "Copilot",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14181",
+    "occured_at": "2025-11-12T07:27:10.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14181#issuecomment-3521813151",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14292_IC_kwDODtfaXs7RUUce",
+    "contributor": "Copilot",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14292",
+    "occured_at": "2025-11-10T08:19:10.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14292#issuecomment-3511764766",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14292_IC_kwDODtfaXs7RUGL0",
+    "contributor": "Copilot",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14292",
+    "occured_at": "2025-11-10T08:06:27.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14292#issuecomment-3511706356",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_copilot/fix-info-text-alignment-mobile_111f96f4aeecf70c0093d1be2be082bb1795b914",
+    "contributor": "Copilot",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to copilot/fix-info-text-alignment-mobile",
+    "occured_at": "2025-11-06T18:09:44.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/111f96f4aeecf70c0093d1be2be082bb1795b914",
+    "text": "Add cursor: not-allowed for disabled textarea elements (#14254)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_copilot/fix-info-text-alignment-mobile_d46af3a5a9f21bcee0436edd0222668ce4f6ee90",
+    "contributor": "Copilot",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to copilot/fix-info-text-alignment-mobile",
+    "occured_at": "2025-11-12T14:14:43.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/d46af3a5a9f21bcee0436edd0222668ce4f6ee90",
+    "text": "Fix Observation Definition delete by including required slug_value field (#14250)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_copilot/sub-pr-14313_c21f49174032d208134763b2929ad4e24d9de888",
+    "contributor": "Copilot",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to copilot/sub-pr-14313",
+    "occured_at": "2025-11-13T02:37:07.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/c21f49174032d208134763b2929ad4e24d9de888",
+    "text": "Revert all i18n pattern changes as requested",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_copilot/sub-pr-14313_941269bf00b96f68931140ff8e68b4d3b71a6440",
+    "contributor": "Copilot",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to copilot/sub-pr-14313",
+    "occured_at": "2025-11-13T01:34:27.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/941269bf00b96f68931140ff8e68b4d3b71a6440",
+    "text": "Add ESLint disable comments for FilterSelect i18n pattern",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_copilot/sub-pr-14313_6e9007cdc33d42f118a80102e7138f80a8a2c0ba",
+    "contributor": "Copilot",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to copilot/sub-pr-14313",
+    "occured_at": "2025-11-13T01:24:33.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/6e9007cdc33d42f118a80102e7138f80a8a2c0ba",
+    "text": "Apply consistent i18n pattern across all FilterSelect usages",
+    "points": null,
+    "meta": {}
+  }
+]

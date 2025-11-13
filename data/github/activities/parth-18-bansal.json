@@ -1,0 +1,13 @@
+[
+  {
+    "slug": "pr_opened_care_fe#14185",
+    "contributor": "parth-18-bansal",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14185",
+    "occured_at": "2025-10-29T11:15:43.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14185",
+    "text": "label the pr if it is auto close",
+    "points": null,
+    "meta": {}
+  }
+]

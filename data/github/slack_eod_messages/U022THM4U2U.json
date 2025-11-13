@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1762448236306,
+    "user_id": "U022THM4U2U",
+    "timestamp": "2025-11-06T11:27:16.306Z",
+    "text": "Nov 6<br>• Reviewed the lab integration plug by <span class=\"s-mention s-user\">@U02TB8XHZD1</span> <br>• Followed up on the scribe with <span class=\"s-mention s-user\">@U02TB83Q5V0</span> <br>• Followed up on discharge reason custom behaviour with <span class=\"s-mention s-user\">@U01JB8L8P7Y</span> <br>• Followed up with <span class=\"s-mention s-user\">@U07NXCASM89</span> on observation interpretation fix<br>• Pushed playwright test to verify phone number &amp;amp; map redirection in facility page<br>• Tested most of the PR labelled need testing<br>• Tested and reviewed most of the priority and playwright PRs<br>Next<br>• Wrap up the new testing doc<br>• Look into social media plan"
+  },
+  {
+    "id": 1762528219450,
+    "user_id": "U022THM4U2U",
+    "timestamp": "2025-11-07T09:40:19.450Z",
+    "text": "Nov 7<br>• Followed up with <span class=\"s-mention s-user\">@U07NXCASM89</span> on observation interpretation fix<br>• Tested most of the PR marked need testing and priority<br>• Pushed new playwright test for facility device creation<br>• Followed up on discharge reason custom behaviour with <span class=\"s-mention s-user\">@U01JB8L8P7Y</span> <br>Next<br>• Followed up on the scribe with <span class=\"s-mention s-user\">@U02TB83Q5V0</span><br>• Wrap up the new testing doc<br>• Look into social media plan"
+  },
+  {
+    "id": 1762795992085,
+    "user_id": "U022THM4U2U",
+    "timestamp": "2025-11-10T12:03:12.085Z",
+    "text": "Nov 10<br>• Followup with <span class=\"s-mention s-user\">@U07NXCASM89</span> on the observation interpretation<br>• Followup and test P1 issues &amp;amp; PRs<br>• Had a quick test of v3.0.27"
+  },
+  {
+    "id": 1762873659290,
+    "user_id": "U022THM4U2U",
+    "timestamp": "2025-11-11T09:37:39.290Z",
+    "text": "Nov 11<br>• Huddle with team on migration issue with patient identifier<br>• Tested most of the need testing labelled PRs<br>• Reviewed most of the playwright PRs<br>Next<br>• Wrap up all PR reviews<br>• Wrap up the new testing doc<br>• Look into social media plan"
+  }
+]

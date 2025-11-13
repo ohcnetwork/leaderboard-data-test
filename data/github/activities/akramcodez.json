@@ -1,0 +1,13 @@
+[
+  {
+    "slug": "pr_opened_care_fe#14139",
+    "contributor": "akramcodez",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14139",
+    "occured_at": "2025-10-26T23:57:52.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14139",
+    "text": "fix: improve validation in Discount Monetary Component form",
+    "points": null,
+    "meta": {}
+  }
+]

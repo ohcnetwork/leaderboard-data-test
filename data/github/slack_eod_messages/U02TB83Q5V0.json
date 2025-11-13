@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1762382817966,
+    "user_id": "U02TB83Q5V0",
+    "timestamp": "2025-11-05T17:16:57.966Z",
+    "text": "Nov 5<br>• Made PRs <a href=\"https://github.com/ohcnetwork/care_fe/pull/14257\">14257</a> and <a href=\"https://github.com/ohcnetwork/care_fe/pull/14260\">14260</a>"
+  },
+  {
+    "id": 1762498542045,
+    "user_id": "U02TB83Q5V0",
+    "timestamp": "2025-11-07T01:25:42.045Z",
+    "text": "Nov 6<br>• Made changes to previous PRs, minor changes to Scribe Cleanups (finally merged)"
+  },
+  {
+    "id": 1762796120026,
+    "user_id": "U02TB83Q5V0",
+    "timestamp": "2025-11-10T12:05:20.026Z",
+    "text": "Nov 10<br>• Created and fixed <a href=\"https://github.com/ohcnetwork/care_fe/issues/14290\">#14290</a> and <a href=\"https://github.com/ohcnetwork/care_fe/issues/14287\">#14287</a><br>• Updated PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/14260\">#14260</a>"
+  }
+]

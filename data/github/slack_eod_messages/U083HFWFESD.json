@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1762407680490,
+    "user_id": "U083HFWFESD",
+    "timestamp": "2025-11-06T00:11:20.490Z",
+    "text": "Nov 5:<br>• Worked on rewriting test for <a href=\"https://github.com/ohcnetwork/care_fe/pull/14234\">care_fe#14234</a><br>• Merged PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/14234\">care_fe#14234</a>: Hide Delete account for non super user<br>• Cleaned up the leaderboard repository and reinitialized it from scratch<br>Next:<br>• Configure CSS files and favicon in the leaderboard"
+  },
+  {
+    "id": 1762491655153,
+    "user_id": "U083HFWFESD",
+    "timestamp": "2025-11-06T23:30:55.153Z",
+    "text": "Nov 6:<br>• Configured css files and icon in the leaderboard<br>• Discussion with <span class=\"s-mention s-user\">@U02TDGQQPMJ</span> about the github apis<br>Next:<br>• Work on required changes in pr<br>• Work on leaderboard"
+  },
+  {
+    "id": 1762608694511,
+    "user_id": "U083HFWFESD",
+    "timestamp": "2025-11-08T08:01:34.511Z",
+    "text": "Nov 7:<br>• Cleanup test of <a href=\"https://github.com/ohcnetwork/care_fe/pull/14224\">PR#14224</a> <br>• Went through github apis and graphql api docs<br>• Attended EOD call<br>Next :<br>• Leaderboard scraper work"
+  },
+  {
+    "id": 1762697837958,
+    "user_id": "U083HFWFESD",
+    "timestamp": "2025-11-09T08:47:17.958Z",
+    "text": "Nov 8:<br>• Worked on leader board scraper work<br>Next:<br>• leaderboard pending works"
+  },
+  {
+    "id": 1762754367211,
+    "user_id": "U083HFWFESD",
+    "timestamp": "2025-11-10T00:29:27.211Z",
+    "text": "Nov 9:<br>• Worked on leaderboard scraper work<br>Next:<br>• leaderboard pending works"
+  },
+  {
+    "id": 1762840903858,
+    "user_id": "U083HFWFESD",
+    "timestamp": "2025-11-11T00:31:43.858Z",
+    "text": "Nov 10:<br>• Leaderboard: Github Scrapper work almost done<br>• Reviewed PRs<br>Next:<br>• Leaderboard ui redesign work and other pending works"
+  },
+  {
+    "id": 1762925748642,
+    "user_id": "U083HFWFESD",
+    "timestamp": "2025-11-12T00:05:48.642Z",
+    "text": "Nov 11:<br>• Wrote slack scrapper and db write function<br>• Attended Weekly call<br>• Reviewed some prs<br>Next:<br>• leaderboard<br>• Work on assigned issue"
+  },
+  {
+    "id": 1763014513254,
+    "user_id": "U083HFWFESD",
+    "timestamp": "2025-11-13T00:45:13.254Z",
+    "text": "Nov 12:<br>• Made PR <a href=\"https://github.com/ohcnetwork/care_analytics_fe/pull/3\">care_analytics_fe#3</a>: Added archive support<br>• Merged PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/14224\">care_fe#14224</a>: Playwright test for token category creation, listing, and permission check<br>• Write script to bulk write the old eod updates into pglite db of leaderboard<br>• Had discussion with <span class=\"s-mention s-user\">@U02TDGQQPMJ</span> leaderboard pending works and split task<br>• Attended DPG call<br>• Attended EOD call<br>Next:<br>• leaderboard pending works"
+  }
+]
