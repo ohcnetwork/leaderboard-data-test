@@ -73,6 +73,10 @@ jobs:
         with:
           node-version: "24"
           cache: "pnpm"
+          cache-dependency-path: |
+            ${{ env.LEADERBOARD_PATH }}/pnpm-lock.yaml
+            ${{ github.workspace }}/leaderboard-github-scraper/pnpm-lock.yaml
+            ${{ github.workspace }}/leaderboard-slack-scraper/pnpm-lock.yaml
 
       - name: 📦 Install Dependencies on all repositories
         run: |
