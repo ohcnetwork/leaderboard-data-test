@@ -1,5 +1,4 @@
 name: Scraper
-run-name: Scrape data (${{ github.run_number }})
 
 on:
   workflow_dispatch:
@@ -77,6 +76,13 @@ jobs:
             ${{ env.LEADERBOARD_PATH }}/pnpm-lock.yaml
             ${{ github.workspace }}/leaderboard-github-scraper/pnpm-lock.yaml
             ${{ github.workspace }}/leaderboard-slack-scraper/pnpm-lock.yaml
+
+      - name: 📦 Install Dependencies on all repositories
+        run: |
+          for repo in ${{ env.LEADERBOARD_PATH }} ${{ env.SCRAPER_PATHS }}; do
+            cd $repo
+            pnpm install
+          done
 
       - name: 🚦 Prepare Database
         run: |
