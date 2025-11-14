@@ -1,6 +1,8 @@
 name: Scraper
 
 on:
+  schedule:
+    - cron: 0 */12 * * *
   workflow_dispatch:
     inputs:
       days:
@@ -19,9 +21,6 @@ jobs:
     permissions:
       contents: write
     env:
-      DB_DATA_PATH: ${{ github.workspace }}/pglite-db
-      FLAT_DATA_PATH: ${{ github.workspace }}/leaderboard-data
-
       LEADERBOARD_PATH: ${{ github.workspace }}/leaderboard
       LEADERBOARD_DATA_PATH: ${{ github.workspace }}/leaderboard-data
       SCRAPER_PATHS: ${{ github.workspace }}/leaderboard-github-scraper ${{ github.workspace }}/leaderboard-slack-scraper
@@ -29,7 +28,7 @@ jobs:
       SCRAPE_DAYS: ${{ inputs.days }}
 
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      GITHUB_ORG: ohcnetwork
+      GITHUB_ORG: ${{ github.repository_owner }}
 
       SLACK_API_TOKEN: ${{ secrets.SLACK_API_TOKEN }}
       SLACK_CHANNEL: ${{ vars.SLACK_EOD_CHANNEL }}
@@ -42,14 +41,14 @@ jobs:
           path: ${{ env.LEADERBOARD_PATH }}
           fetch-depth: 1
 
-      - name: 📥 Checkout Leaderboard Github Scraper
+      - name: 📥 Checkout GitHub Scraper
         uses: actions/checkout@v5
         with:
           repository: ohcnetwork/leaderboard-github-scraper
           path: ${{ github.workspace }}/leaderboard-github-scraper
           fetch-depth: 1
 
-      - name: 📥 Checkout Leaderboard Slack Scraper
+      - name: 📥 Checkout Slack Scraper
         uses: actions/checkout@v5
         with:
           repository: ohcnetwork/leaderboard-slack-scraper
@@ -138,3 +137,16 @@ jobs:
 
           # Ensure pushing to the correct branch (default = main)
           git push origin HEAD:main
+
+      - name: Build Leaderboard
+        run: |
+          cd ${{ env.LEADERBOARD_PATH }}
+          pnpm build
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy ${{ env.LEADERBOARD_PATH }}/out --project-name=contributors-beta
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
