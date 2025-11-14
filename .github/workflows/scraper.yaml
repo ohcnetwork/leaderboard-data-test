@@ -118,9 +118,23 @@ jobs:
             echo "✅ DB export completed for $repo"
           done
 
+      - name: Setup Git Identity
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
       - name: 📤 Commit and Push Changes to Leaderboard Data
         run: |
           cd ${{ env.LEADERBOARD_DATA_PATH }}
-          git add .
+          git add -A
+
+          # commit only if there are actual changes
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
           git commit -m "Update leaderboard data"
-          git push
+
+          # Ensure pushing to the correct branch (default = main)
+          git push origin HEAD:main
