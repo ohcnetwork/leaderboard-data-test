@@ -20,6 +20,8 @@ jobs:
       contents: write
     env:
       DB_DATA_PATH: ${{ github.workspace }}/pglite-db
+      FLAT_DATA_PATH: ${{ github.workspace }}/leaderboard-data
+
       LEADERBOARD_PATH: ${{ github.workspace }}/leaderboard
       LEADERBOARD_DATA_PATH: ${{ github.workspace }}/leaderboard-data
       SCRAPER_PATHS: ${{ github.workspace }}/leaderboard-github-scraper ${{ github.workspace }}/leaderboard-slack-scraper
