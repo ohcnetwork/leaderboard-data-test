@@ -1,5 +1,38 @@
 [
   {
+    "slug": "issue_opened_care_fe#14322",
+    "contributor": "aravindm4",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14322",
+    "occured_at": "2025-11-13T09:23:00.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14322",
+    "text": "Home Page - Redesign",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#13042_IC_kwDODtfaXs7R6tQK",
+    "contributor": "aravindm4",
+    "activity_definition": "comment_created",
+    "title": "Commented on #13042",
+    "occured_at": "2025-11-12T07:30:27.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13042#issuecomment-3521827850",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#12921_IC_kwDODtfaXs7R6d_9",
+    "contributor": "aravindm4",
+    "activity_definition": "comment_created",
+    "title": "Commented on #12921",
+    "occured_at": "2025-11-12T07:18:06.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/12921#issuecomment-3521765373",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
     "slug": "issue_opened_leaderboard#530",
     "contributor": "aravindm4",
     "activity_definition": "issue_opened",
@@ -18,17 +51,6 @@
     "occured_at": "2025-11-09T11:50:36.000Z",
     "link": "https://github.com/ohcnetwork/leaderboard/issues/530",
     "text": "Add Custom Date Range Picker in Contributors Leaderboard Filter",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "issue_opened_care_fe#14305",
-    "contributor": "aravindm4",
-    "activity_definition": "issue_opened",
-    "title": "Opened issue #14305",
-    "occured_at": "2025-11-12T04:15:30.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/issues/14305",
-    "text": "Add Charge Item Category and Favorite Option in Charge Item Structured Question Type",
     "points": null,
     "meta": {}
   },
@@ -62,17 +84,6 @@
     "occured_at": "2025-11-13T05:27:28.000Z",
     "link": "https://github.com/ohcnetwork/care_fe/issues/13176",
     "text": "OPD request from HMIS pilot states",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "issue_opened_care_fe#14322",
-    "contributor": "aravindm4",
-    "activity_definition": "issue_opened",
-    "title": "Opened issue #14322",
-    "occured_at": "2025-11-13T03:53:00.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/issues/14322",
-    "text": "Home Page - Redesign",
     "points": null,
     "meta": {}
   },
@@ -308,28 +319,6 @@
     "meta": {}
   },
   {
-    "slug": "comment_created_care_fe#13042_IC_kwDODtfaXs7R6tQK",
-    "contributor": "aravindm4",
-    "activity_definition": "comment_created",
-    "title": "Commented on #13042",
-    "occured_at": "2025-11-12T07:30:27.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/issues/13042#issuecomment-3521827850",
-    "text": null,
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "comment_created_care_fe#12921_IC_kwDODtfaXs7R6d_9",
-    "contributor": "aravindm4",
-    "activity_definition": "comment_created",
-    "title": "Commented on #12921",
-    "occured_at": "2025-11-12T07:18:06.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/issues/12921#issuecomment-3521765373",
-    "text": null,
-    "points": null,
-    "meta": {}
-  },
-  {
     "slug": "comment_created_care_fe#12810_IC_kwDODtfaXs7R6V2e",
     "contributor": "aravindm4",
     "activity_definition": "comment_created",
@@ -502,6 +491,17 @@
     "occured_at": "2025-11-07T06:46:03.000Z",
     "link": "https://github.com/ohcnetwork/care_fe/pull/14245#issuecomment-3502233935",
     "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#14305",
+    "contributor": "aravindm4",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14305",
+    "occured_at": "2025-11-12T09:45:30.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14305",
+    "text": "Add Charge Item Category and Favorite Option in Charge Item Structured Question Type",
     "points": null,
     "meta": {}
   }

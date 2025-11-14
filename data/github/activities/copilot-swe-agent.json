@@ -1,5 +1,16 @@
 [
   {
+    "slug": "pr_opened_care_fe#14315",
+    "contributor": "copilot-swe-agent",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14315",
+    "occured_at": "2025-11-12T13:44:41.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14315",
+    "text": "Fix ObservationDefinition types and add missing TBody to API endpoints",
+    "points": null,
+    "meta": {}
+  },
+  {
     "slug": "issue_assigned_care_fe#14204_copilot-swe-agent",
     "contributor": "copilot-swe-agent",
     "activity_definition": "issue_assigned",
@@ -29,17 +40,6 @@
     "occured_at": "2025-11-12T13:44:38.000Z",
     "link": "https://github.com/ohcnetwork/care_fe/issues/14314",
     "text": "Add proper types for ObservationDefinition API and types",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "issue_assigned_care_fe#13894_copilot-swe-agent",
-    "contributor": "copilot-swe-agent",
-    "activity_definition": "issue_assigned",
-    "title": "Issue #13894 assigned",
-    "occured_at": "2025-11-12T04:33:47.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/issues/13894",
-    "text": "Clicking on some buttons gives warning for Missing `Description`",
     "points": null,
     "meta": {}
   },
@@ -84,39 +84,6 @@
     "occured_at": "2025-11-05T07:44:07.000Z",
     "link": "https://github.com/ohcnetwork/care_fe/issues/14253",
     "text": "Disable cursor for text-area is missing",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "pr_opened_care_fe#14251",
-    "contributor": "copilot-swe-agent",
-    "activity_definition": "pr_opened",
-    "title": "Opened pull request #14251",
-    "occured_at": "2025-11-05T05:51:40.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/pull/14251",
-    "text": "Fix popover overflow on mobile for charge item price breakdown",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "pr_opened_care_fe#14319",
-    "contributor": "copilot-swe-agent",
-    "activity_definition": "pr_opened",
-    "title": "Opened pull request #14319",
-    "occured_at": "2025-11-13T01:14:32.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/pull/14319",
-    "text": "Revert i18n pattern changes for FilterSelect component",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "pr_opened_care_fe#14315",
-    "contributor": "copilot-swe-agent",
-    "activity_definition": "pr_opened",
-    "title": "Opened pull request #14315",
-    "occured_at": "2025-11-12T13:44:41.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/pull/14315",
-    "text": "Fix ObservationDefinition types and add missing TBody to API endpoints",
     "points": null,
     "meta": {}
   },
@@ -172,28 +139,6 @@
     "occured_at": "2025-11-12T13:50:50.000Z",
     "link": "https://github.com/ohcnetwork/care_fe/pull/14250#pullrequestreview-3455067445",
     "text": "Fix Observation Definition delete by including required slug_value field",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "pr_opened_care_fe#14181",
-    "contributor": "copilot-swe-agent",
-    "activity_definition": "pr_opened",
-    "title": "Opened pull request #14181",
-    "occured_at": "2025-10-29T06:42:26.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/pull/14181",
-    "text": "Add error border styling to RequirementsSelector in Healthcare Service form",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "pr_opened_care_fe#14306",
-    "contributor": "copilot-swe-agent",
-    "activity_definition": "pr_opened",
-    "title": "Opened pull request #14306",
-    "occured_at": "2025-11-12T04:33:52.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/pull/14306",
-    "text": "Fix accessibility warnings for missing Description in Sheet/Drawer dialogs",
     "points": null,
     "meta": {}
   },
@@ -271,6 +216,72 @@
     "occured_at": "2025-11-06T18:09:44.000Z",
     "link": "https://github.com/ohcnetwork/care_fe/pull/14254",
     "text": "Add cursor: not-allowed for disabled textarea elements",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#13894_copilot-swe-agent",
+    "contributor": "copilot-swe-agent",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #13894 assigned",
+    "occured_at": "2025-11-12T10:03:47.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13894",
+    "text": "Clicking on some buttons gives warning for Missing `Description`",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14251",
+    "contributor": "copilot-swe-agent",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14251",
+    "occured_at": "2025-11-05T11:21:40.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14251",
+    "text": "Fix popover overflow on mobile for charge item price breakdown",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14181",
+    "contributor": "copilot-swe-agent",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14181",
+    "occured_at": "2025-10-29T12:12:26.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14181",
+    "text": "Add error border styling to RequirementsSelector in Healthcare Service form",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14319",
+    "contributor": "copilot-swe-agent",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14319",
+    "occured_at": "2025-11-13T06:44:32.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14319",
+    "text": "Revert i18n pattern changes for FilterSelect component",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14306",
+    "contributor": "copilot-swe-agent",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14306",
+    "occured_at": "2025-11-12T10:03:52.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14306",
+    "text": "Fix accessibility warnings for missing Description in Sheet/Drawer dialogs",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_merged_care_fe#14306",
+    "contributor": "copilot-swe-agent",
+    "activity_definition": "pr_merged",
+    "title": "Merged pull request #14306",
+    "occured_at": "2025-11-13T18:13:19.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14306",
+    "text": "Fix accessibility warnings for missing Description in Sheet/Drawer dialogs",
     "points": null,
     "meta": {}
   }
