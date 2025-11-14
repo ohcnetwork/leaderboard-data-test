@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "issue_opened_care_fe#14318",
+    "contributor": "NikhilA8606",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14318",
+    "occured_at": "2025-11-13T06:10:01.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14318",
+    "text": "Appointment should mark as fullfilled when marking an Encounter as completed",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#14318_NikhilA8606",
+    "contributor": "NikhilA8606",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14318 assigned",
+    "occured_at": "2025-11-13T06:10:39.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14318",
+    "text": "Appointment should mark as fullfilled when marking an Encounter as completed",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#13951_COMMENTED_PRR_kwDODtfaXs7INhMZ",
+    "contributor": "NikhilA8606",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #13951",
+    "occured_at": "2025-10-21T06:53:49.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/13951#pullrequestreview-3358987033",
+    "text": "Fixes incorrect product redirect after edit #13930",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_leaderboard#632",
+    "contributor": "NikhilA8606",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #632",
+    "occured_at": "2025-11-13T15:56:26.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard/pull/632",
+    "text": "Leaderboard v2",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_merged_leaderboard#632",
+    "contributor": "NikhilA8606",
+    "activity_definition": "pr_merged",
+    "title": "Merged pull request #632",
+    "occured_at": "2025-11-13T15:58:03.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard/pull/632",
+    "text": "Leaderboard v2",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_main_65462e842141fa561d57452710a59818db98de41",
+    "contributor": "NikhilA8606",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to main",
+    "occured_at": "2025-11-13T15:58:03.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard/commit/65462e842141fa561d57452710a59818db98de41",
+    "text": "Leaderboard v2 (#632)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_v2_7a9a8054e6c6772fdcc911e00620278b270f8484",
+    "contributor": "NikhilA8606",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to v2",
+    "occured_at": "2025-11-13T10:21:49.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard/commit/7a9a8054e6c6772fdcc911e00620278b270f8484",
+    "text": "Added test script to restore eod and contributor details",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_main_130df8aeeb47c2354ed1df3ad20894fd37b70851",
+    "contributor": "NikhilA8606",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to main",
+    "occured_at": "2025-11-13T15:17:06.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard-slack-scraper/commit/130df8aeeb47c2354ed1df3ad20894fd37b70851",
+    "text": "configure since days",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_main_18a9f60890261fa12c1247dd46b8ffd6f0b2e214",
+    "contributor": "NikhilA8606",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to main",
+    "occured_at": "2025-11-13T15:10:05.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard-slack-scraper/commit/18a9f60890261fa12c1247dd46b8ffd6f0b2e214",
+    "text": "Import and export slack_eod_table too",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_main_85c63a8a253f8efa816658d7e96a23766832d548",
+    "contributor": "NikhilA8606",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to main",
+    "occured_at": "2025-11-13T12:15:10.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard-slack-scraper/commit/85c63a8a253f8efa816658d7e96a23766832d548",
+    "text": "Implement slack scraper",
+    "points": null,
+    "meta": {}
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "slug": "pr_opened_care_fe#14121",
+    "contributor": "khavinshankar",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14121",
+    "occured_at": "2025-10-24T11:20:58.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14121",
+    "text": "POC: fetch and load plugins at runtime",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_develop_629e9c6621829b37adc7ff13a851cd2adfce48db",
+    "contributor": "khavinshankar",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to develop",
+    "occured_at": "2025-11-13T10:36:05.000Z",
+    "link": "https://github.com/ohcnetwork/care_abdm_fe/commit/629e9c6621829b37adc7ff13a851cd2adfce48db",
+    "text": "pass encounter to create consent form",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_develop_2702d55b6b37c23179b9904ca7dcf164d81c46ef",
+    "contributor": "khavinshankar",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to develop",
+    "occured_at": "2025-11-13T10:18:30.000Z",
+    "link": "https://github.com/ohcnetwork/care_abdm_fe/commit/2702d55b6b37c23179b9904ca7dcf164d81c46ef",
+    "text": "send encounter id while creating a consent",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_develop_57b287fc9ffb3a5304d9455f885ed80d4cb31117",
+    "contributor": "khavinshankar",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to develop",
+    "occured_at": "2025-11-13T09:23:02.000Z",
+    "link": "https://github.com/ohcnetwork/care_abdm_fe/commit/57b287fc9ffb3a5304d9455f885ed80d4cb31117",
+    "text": "filter consent requests by patient and facility",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_develop_9ec5e075974277336e472ae8adbdc33501fb4d95",
+    "contributor": "khavinshankar",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to develop",
+    "occured_at": "2025-11-13T09:19:03.000Z",
+    "link": "https://github.com/ohcnetwork/care_abdm_fe/commit/9ec5e075974277336e472ae8adbdc33501fb4d95",
+    "text": "fixed the encounter tab props",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_develop_215afadfffea45621163e6562c5f4068eee3be53",
+    "contributor": "khavinshankar",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to develop",
+    "occured_at": "2025-11-13T09:12:05.000Z",
+    "link": "https://github.com/ohcnetwork/care_abdm_fe/commit/215afadfffea45621163e6562c5f4068eee3be53",
+    "text": "filter consents by hiu in abdm records tab instead",
+    "points": null,
+    "meta": {}
+  }
+]

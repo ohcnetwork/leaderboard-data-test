@@ -1,0 +1,8 @@
+[
+  {
+    "id": 1763014513254,
+    "user_id": "U083HFWFESD",
+    "timestamp": "2025-11-13T06:15:13.254Z",
+    "text": "Nov 12:<br>• Made PR <a href=\"https://github.com/ohcnetwork/care_analytics_fe/pull/3\">care_analytics_fe#3</a>: Added archive support<br>• Merged PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/14224\">care_fe#14224</a>: Playwright test for token category creation, listing, and permission check<br>• Write script to bulk write the old eod updates into pglite db of leaderboard<br>• Had discussion with <span class=\"s-mention s-user\">@U02TDGQQPMJ</span> leaderboard pending works and split task<br>• Attended DPG call<br>• Attended EOD call<br>Next:<br>• leaderboard pending works"
+  }
+]

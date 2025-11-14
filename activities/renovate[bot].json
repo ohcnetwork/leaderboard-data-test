@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "commit_created_renovate/all-dependencies-(patch)_e710bd7b5e7341a224052fe7a72010c6aad0c8d0",
+    "contributor": "renovate[bot]",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to renovate/all-dependencies-(patch)",
+    "occured_at": "2025-11-13T18:14:47.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/e710bd7b5e7341a224052fe7a72010c6aad0c8d0",
+    "text": "chore(deps): update all dependencies (patch)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_renovate/all-dependencies-(patch)_29db225c24c25d564e3341389feedc62c6500408",
+    "contributor": "renovate[bot]",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to renovate/all-dependencies-(patch)",
+    "occured_at": "2025-11-13T13:00:13.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/29db225c24c25d564e3341389feedc62c6500408",
+    "text": "chore(deps): update all dependencies (patch)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_renovate/all-dependencies-(patch)_2e10744313225570bafe850e340df01e51024c43",
+    "contributor": "renovate[bot]",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to renovate/all-dependencies-(patch)",
+    "occured_at": "2025-11-13T12:33:03.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/2e10744313225570bafe850e340df01e51024c43",
+    "text": "chore(deps): update all dependencies (patch)",
+    "points": null,
+    "meta": {}
+  }
+]

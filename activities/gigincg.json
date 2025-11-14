@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "issue_opened_care_fe#12909",
+    "contributor": "gigincg",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #12909",
+    "occured_at": "2025-07-14T09:52:57.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/12909",
+    "text": "Refactor: Move Remaining APIs from Central `routes` to Object-Specific API Files along with type cleanup",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#13603_COMMENTED_PRR_kwDODtfaXs7NZL2K",
+    "contributor": "gigincg",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #13603",
+    "occured_at": "2025-11-11T02:08:39.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/13603#pullrequestreview-3445931402",
+    "text": "Fix: Clean up missed for encounter and patient types",
+    "points": null,
+    "meta": {}
+  }
+]

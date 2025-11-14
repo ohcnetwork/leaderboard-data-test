@@ -1,0 +1,8 @@
+[
+  {
+    "id": 1763012944277,
+    "user_id": "U086E5U2CSJ",
+    "timestamp": "2025-11-13T05:49:04.277Z",
+    "text": "Nov 12<br>• Made PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/14313\">care_fe#14313</a>: Add ordering parameter to inventory<br>• Made PR <a href=\"https://github.com/ohcnetwork/care/pull/3354\">care#3354</a>: Add &#x27;net_content&#x27; to ordering fields in InventoryItemViewSet<br>• Made PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/14311\">care_fe#14311</a>: Add version field to cloned questionnaire data<br>• Made PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/14308\">care_fe#14308</a>: Replace autocomplete with ResourceDefinitionCategoryPicker in ChargeItem questionnaire<br>• Created issue <a href=\"https://github.com/ohcnetwork/care_fe/issues/14310\">care_fe#14310</a>: Unable to clone a Questionnaire<br>• Merged PR <a href=\"https://github.com/ohcnetwork/care/pull/3354\">care#3354</a>: Add &#x27;net_content&#x27; to ordering fields in InventoryItemViewSet<br>• Merged PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/14311\">care_fe#14311</a>: Add version field to cloned questionnaire data<br>• Merged PR <a href=\"https://github.com/ohcnetwork/care_fe/pull/14122\">care_fe#14122</a>: Add Playwright tests for creating and managing encounters<br>• Made changes to <a href=\"https://github.com/ohcnetwork/care_fe/pull/14098\">#14098</a><br>• Attended DPG Call<br>• Attended EOD Call<br>Next<br>• Make changes to <a href=\"https://github.com/ohcnetwork/care_fe/pull/14313\">#14313</a><br>• PR review <br>"
+  }
+]

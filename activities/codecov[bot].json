@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "comment_created_care#3356_IC_kwDODsgdF87SLnlr",
+    "contributor": "codecov[bot]",
+    "activity_definition": "comment_created",
+    "title": "Commented on #3356",
+    "occured_at": "2025-11-13T08:08:32.000Z",
+    "link": "https://github.com/ohcnetwork/care/pull/3356#issuecomment-3526261099",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care#3355_IC_kwDODsgdF87SJNvH",
+    "contributor": "codecov[bot]",
+    "activity_definition": "comment_created",
+    "title": "Commented on #3355",
+    "occured_at": "2025-11-13T06:03:40.000Z",
+    "link": "https://github.com/ohcnetwork/care/pull/3355#issuecomment-3525630919",
+    "text": null,
+    "points": null,
+    "meta": {}
+  }
+]
