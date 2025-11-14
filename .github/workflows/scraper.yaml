@@ -112,10 +112,7 @@ jobs:
 
       - name: 📤 Export Data
         run: |
-          cd /tmp/leaderboard
-          pnpm db:export
-
-          for repo in ${{ env.SCRAPER_PATHS }}; do
+          for repo in ${{ env.LEADERBOARD_PATH }} ${{ env.SCRAPER_PATHS }}; do
             cd $repo
             pnpm db:export
             echo "✅ DB export completed for $repo"
