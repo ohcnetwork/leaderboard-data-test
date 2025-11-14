@@ -1,0 +1,125 @@
+name: Scraper
+run-name: Scrape data (${{ github.event.repository.updated_at }})
+
+on:
+  workflow_dispatch:
+    inputs:
+      days:
+        type: number
+        description: "Number of days to scrape"
+        default: 1
+
+concurrency:
+  group: scheduled-data-scraper-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  scrape-data:
+    name: Scrape data
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      PGLITE_DB_PATH: /tmp/pglite-db
+      LEADERBOARD_PATH: /tmp/leaderboard
+      LEADERBOARD_DATA_PATH: /tmp/leaderboard-data
+
+      SCRAPE_DAYS: ${{ inputs.days }}
+
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GITHUB_ORG: ohcnetwork
+
+      SLACK_TOKEN: ${{ secrets.SLACK_TOKEN }}
+      SLACK_CHANNEL: ${{ vars.SLACK_EOD_CHANNEL }}
+
+      SCRAPER_PATHS: /tmp/leaderboard-github-scraper /tmp/leaderboard-slack-scraper
+
+    steps:
+      - name: 📥 Checkout Leaderboard
+        uses: actions/checkout@v5
+        with:
+          repository: ohcnetwork/leaderboard
+          path: ${{ env.LEADERBOARD_PATH }}
+          fetch-depth: 1
+
+      - name: 📥 Checkout Leaderboard Github Scraper
+        uses: actions/checkout@v5
+        with:
+          repository: ohcnetwork/leaderboard-github-scraper
+          path: /tmp/leaderboard-github-scraper
+          fetch-depth: 1
+
+      - name: 📥 Checkout Leaderboard Slack Scraper
+        uses: actions/checkout@v5
+        with:
+          repository: ohcnetwork/leaderboard-slack-scraper
+          path: /tmp/leaderboard-slack-scraper
+          fetch-depth: 1
+
+      - name: 📥 Checkout Leaderboard Data
+        uses: actions/checkout@v5
+        with:
+          path: ${{ env.LEADERBOARD_DATA_PATH }}
+          fetch-depth: 1
+          persist-credentials: true
+
+      - name: 📦 Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+          run_install: false
+
+      - name: 📦 Setup Node.js
+        uses: actions/setup-node@v5
+        with:
+          node-version: "24"
+          cache: "pnpm"
+
+      - name: 📦 Install Dependencies on all repositories
+        run: |
+          for repo in ${{ env.LEADERBOARD_PATH }} ${{ env.LEADERBOARD_DATA_PATH }} ${{ env.SCRAPER_PATHS }}; do
+            cd $repo
+            pnpm install
+          done
+
+      - name: 🚦 Prepare Database
+        run: |
+          for repo in ${{ env.LEADERBOARD_PATH }} ${{ env.SCRAPER_PATHS }}; do
+            cd $repo
+            pnpm db:prepare
+            echo "✅ DB prepare completed for $repo"
+          done;
+
+      - name: 📥 Import from Flat Data to Database
+        run: |
+          for repo in ${{ env.LEADERBOARD_PATH }} ${{ env.SCRAPER_PATHS }}; do
+            cd $repo
+            pnpm db:import
+            echo "✅ DB import completed for $repo"
+          done
+
+      - name: 🔍 Scrape Data
+        run: |
+          for repo in ${{ env.SCRAPER_PATHS }}; do
+            cd $repo
+            pnpm db:scrape
+            echo "✅ Scraper completed for $repo"
+          done
+
+      - name: 📤 Export Data
+        run: |
+          cd /tmp/leaderboard
+          pnpm db:export
+
+          for repo in ${{ env.SCRAPER_PATHS }}; do
+            cd $repo
+            pnpm db:export
+            echo "✅ DB export completed for $repo"
+          done
+
+      - name: 📤 Commit and Push Changes to Leaderboard Data
+        run: |
+          cd /tmp/leaderboard-data
+          git add .
+          git commit -m "Update leaderboard data"
+          git push
