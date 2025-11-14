@@ -78,13 +78,6 @@ jobs:
             ${{ github.workspace }}/leaderboard-github-scraper/pnpm-lock.yaml
             ${{ github.workspace }}/leaderboard-slack-scraper/pnpm-lock.yaml
 
-      - name: 📦 Install Dependencies on all repositories
-        run: |
-          for repo in ${{ env.LEADERBOARD_PATH }} ${{ env.LEADERBOARD_DATA_PATH }} ${{ env.SCRAPER_PATHS }}; do
-            cd $repo
-            pnpm install
-          done
-
       - name: 🚦 Prepare Database
         run: |
           for repo in ${{ env.LEADERBOARD_PATH }} ${{ env.SCRAPER_PATHS }}; do
