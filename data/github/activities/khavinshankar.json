@@ -1,16 +1,5 @@
 [
   {
-    "slug": "issue_opened_abdm_phr#11",
-    "contributor": "khavinshankar",
-    "activity_definition": "issue_opened",
-    "title": "Opened issue #11",
-    "occured_at": "2025-11-12T21:03:52.000Z",
-    "link": "https://github.com/ohcnetwork/abdm_phr/issues/11",
-    "text": "Add pull records feature in PHR",
-    "points": null,
-    "meta": {}
-  },
-  {
     "slug": "issue_opened_care_fe#14236",
     "contributor": "khavinshankar",
     "activity_definition": "issue_opened",
@@ -29,6 +18,17 @@
     "occured_at": "2025-11-04T07:32:52.000Z",
     "link": "https://github.com/ohcnetwork/care_fe/issues/14236",
     "text": "Encounter not refreshed after adding a consent",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_abdm_phr#11",
+    "contributor": "khavinshankar",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #11",
+    "occured_at": "2025-11-12T21:03:52.000Z",
+    "link": "https://github.com/ohcnetwork/abdm_phr/issues/11",
+    "text": "Add pull records feature in PHR",
     "points": null,
     "meta": {}
   },
@@ -275,28 +275,6 @@
     "meta": {}
   },
   {
-    "slug": "issue_assigned_leaderboard#170_khavinshankar",
-    "contributor": "khavinshankar",
-    "activity_definition": "issue_assigned",
-    "title": "Issue #170 assigned",
-    "occured_at": "2023-12-13T07:47:16.000Z",
-    "link": "https://github.com/ohcnetwork/leaderboard/issues/170",
-    "text": "Show timeline / gantt chart to visualise PR activity (issue assigned > PR opened > PR merged/closed)",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "pr_opened_care_fe#14121",
-    "contributor": "khavinshankar",
-    "activity_definition": "pr_opened",
-    "title": "Opened pull request #14121",
-    "occured_at": "2025-10-24T11:20:58.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/pull/14121",
-    "text": "POC: fetch and load plugins at runtime",
-    "points": null,
-    "meta": {}
-  },
-  {
     "slug": "commit_created_Sudheendra_b83dc10e18cf3f68507303e144297cb3571b536f",
     "contributor": "khavinshankar",
     "activity_definition": "commit_created",
@@ -381,6 +359,28 @@
     "occured_at": "2025-11-14T11:01:36.000Z",
     "link": "https://github.com/ohcnetwork/care/pull/3357",
     "text": "Enable PlugConfig API",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14121",
+    "contributor": "khavinshankar",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14121",
+    "occured_at": "2025-10-24T11:20:58.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14121",
+    "text": "POC: fetch and load plugins at runtime",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_leaderboard#170_khavinshankar",
+    "contributor": "khavinshankar",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #170 assigned",
+    "occured_at": "2023-12-13T07:47:16.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard/issues/170",
+    "text": "Show timeline / gantt chart to visualise PR activity (issue assigned > PR opened > PR merged/closed)",
     "points": null,
     "meta": {}
   }

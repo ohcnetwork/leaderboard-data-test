@@ -1,16 +1,5 @@
 [
   {
-    "slug": "issue_opened_care_fe#14167",
-    "contributor": "GSMPRANEETH",
-    "activity_definition": "issue_opened",
-    "title": "Opened issue #14167",
-    "occured_at": "2025-10-28T07:43:22.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/issues/14167",
-    "text": "Same list of orgs shown in pagination",
-    "points": null,
-    "meta": {}
-  },
-  {
     "slug": "issue_opened_care_fe#14037",
     "contributor": "GSMPRANEETH",
     "activity_definition": "issue_opened",
@@ -29,28 +18,6 @@
     "occured_at": "2025-09-07T02:27:57.000Z",
     "link": "https://github.com/ohcnetwork/care_fe/issues/13642",
     "text": "Descriptions of Definitions are not properly aligned in mobile view",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "issue_opened_care_fe#14077",
-    "contributor": "GSMPRANEETH",
-    "activity_definition": "issue_opened",
-    "title": "Opened issue #14077",
-    "occured_at": "2025-10-17T11:30:00.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/issues/14077",
-    "text": "Bug: Accessibility warning due to aria-hidden focus conflict",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "issue_opened_care_fe#14107",
-    "contributor": "GSMPRANEETH",
-    "activity_definition": "issue_opened",
-    "title": "Opened issue #14107",
-    "occured_at": "2025-10-22T08:11:14.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/issues/14107",
-    "text": "Truncate large usernames in patients search and other pages",
     "points": null,
     "meta": {}
   },
@@ -1250,6 +1217,39 @@
     "occured_at": "2025-11-11T05:50:18.000Z",
     "link": "https://github.com/ohcnetwork/care_fe/commit/320c91eafd665a7b8418f4df42ec9e30a66b45d2",
     "text": "Fixing UI in settings/billing to highlight selected sidebar item (#14177)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#14167",
+    "contributor": "GSMPRANEETH",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14167",
+    "occured_at": "2025-10-28T13:13:22.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14167",
+    "text": "Same list of orgs shown in pagination",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#14107",
+    "contributor": "GSMPRANEETH",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14107",
+    "occured_at": "2025-10-22T13:41:14.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14107",
+    "text": "Truncate large usernames in patients search and other pages",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#14077",
+    "contributor": "GSMPRANEETH",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14077",
+    "occured_at": "2025-10-17T17:00:00.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14077",
+    "text": "Bug: Accessibility warning due to aria-hidden focus conflict",
     "points": null,
     "meta": {}
   }

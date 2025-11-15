@@ -33,17 +33,6 @@
     "meta": {}
   },
   {
-    "slug": "issue_opened_care_fe#14287",
-    "contributor": "shivankacker",
-    "activity_definition": "issue_opened",
-    "title": "Opened issue #14287",
-    "occured_at": "2025-11-10T04:28:18.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/issues/14287",
-    "text": "Remove \"scheduling\" option from Healthcare Services Form Internal Type Dropdown",
-    "points": null,
-    "meta": {}
-  },
-  {
     "slug": "issue_assigned_care_fe#14261_shivankacker",
     "contributor": "shivankacker",
     "activity_definition": "issue_assigned",
@@ -73,17 +62,6 @@
     "occured_at": "2025-11-10T04:44:54.000Z",
     "link": "https://github.com/ohcnetwork/care_fe/issues/14290",
     "text": "Unable to save the edit healthcare service form with just a change to the icon",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "issue_assigned_care_fe#14287_shivankacker",
-    "contributor": "shivankacker",
-    "activity_definition": "issue_assigned",
-    "title": "Issue #14287 assigned",
-    "occured_at": "2025-11-10T04:28:18.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/issues/14287",
-    "text": "Remove \"scheduling\" option from Healthcare Services Form Internal Type Dropdown",
     "points": null,
     "meta": {}
   },
@@ -198,6 +176,105 @@
     "meta": {}
   },
   {
+    "slug": "commit_created_test/heathcare-services_9cb76c064446fad621de2dbb3b7b0d1e1897802c",
+    "contributor": "shivankacker",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to test/heathcare-services",
+    "occured_at": "2025-11-14T12:09:07.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/9cb76c064446fad621de2dbb3b7b0d1e1897802c",
+    "text": "fix",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_test/heathcare-services_d472bf0eacab9fc94619d249fe1b625aa094d678",
+    "contributor": "shivankacker",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to test/heathcare-services",
+    "occured_at": "2025-11-14T10:39:36.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/d472bf0eacab9fc94619d249fe1b625aa094d678",
+    "text": "how is form state getting dirty",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_test/heathcare-services_ef2fb9a1cc9a1e79d18a11093cee77f26eccf417",
+    "contributor": "shivankacker",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to test/heathcare-services",
+    "occured_at": "2025-11-14T10:25:50.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/ef2fb9a1cc9a1e79d18a11093cee77f26eccf417",
+    "text": "just a test",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_test/heathcare-services_dc8c0f3bd9761e5b5f21e337108e3a5a2f484f49",
+    "contributor": "shivankacker",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to test/heathcare-services",
+    "occured_at": "2025-11-14T10:10:36.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/commit/dc8c0f3bd9761e5b5f21e337108e3a5a2f484f49",
+    "text": "add wait before click",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#14215",
+    "contributor": "shivankacker",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14215",
+    "occured_at": "2025-11-01T14:46:16.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14215",
+    "text": "Unable to create new observation definition with 0 interpretations; No error messages",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#14356",
+    "contributor": "shivankacker",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14356",
+    "occured_at": "2025-11-14T17:18:13.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14356",
+    "text": "Automatically switch to test DB when running playwright tests",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#14287",
+    "contributor": "shivankacker",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14287",
+    "occured_at": "2025-11-10T09:58:18.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14287",
+    "text": "Remove \"scheduling\" option from Healthcare Services Form Internal Type Dropdown",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#14356_shivankacker",
+    "contributor": "shivankacker",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14356 assigned",
+    "occured_at": "2025-11-14T17:18:13.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14356",
+    "text": "Automatically switch to test DB when running playwright tests",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#14287_shivankacker",
+    "contributor": "shivankacker",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14287 assigned",
+    "occured_at": "2025-11-10T09:58:18.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14287",
+    "text": "Remove \"scheduling\" option from Healthcare Services Form Internal Type Dropdown",
+    "points": null,
+    "meta": {}
+  },
+  {
     "slug": "comment_created_care_fe#14257_IC_kwDODtfaXs7Sgfuy",
     "contributor": "shivankacker",
     "activity_definition": "comment_created",
@@ -205,6 +282,17 @@
     "occured_at": "2025-11-14T09:15:39.000Z",
     "link": "https://github.com/ohcnetwork/care_fe/pull/14257#issuecomment-3531733938",
     "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14171",
+    "contributor": "shivankacker",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14171",
+    "occured_at": "2025-10-29T06:35:18.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14171",
+    "text": "Automatically switch to test DB when running playwright tests",
     "points": null,
     "meta": {}
   },
@@ -297,13 +385,13 @@
     "meta": {}
   },
   {
-    "slug": "pr_opened_care_fe#14171",
+    "slug": "pr_reviewed_care_fe#14260_COMMENTED_PRR_kwDODtfaXs7OhGNz",
     "contributor": "shivankacker",
-    "activity_definition": "pr_opened",
-    "title": "Opened pull request #14171",
-    "occured_at": "2025-10-29T06:35:18.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/pull/14171",
-    "text": "Automatically switch to test DB when running playwright tests",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #14260",
+    "occured_at": "2025-11-14T12:46:20.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14260#pullrequestreview-3464782707",
+    "text": "Bug Fixes and Tests for healthcare services",
     "points": null,
     "meta": {}
   },
@@ -315,50 +403,6 @@
     "occured_at": "2025-11-05T21:28:31.000Z",
     "link": "https://github.com/ohcnetwork/care_fe/pull/14257",
     "text": "Added test for Patient Identifier Config",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "commit_created_test/heathcare-services_9cb76c064446fad621de2dbb3b7b0d1e1897802c",
-    "contributor": "shivankacker",
-    "activity_definition": "commit_created",
-    "title": "Pushed commit to test/heathcare-services",
-    "occured_at": "2025-11-14T12:09:07.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/commit/9cb76c064446fad621de2dbb3b7b0d1e1897802c",
-    "text": "fix",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "commit_created_test/heathcare-services_d472bf0eacab9fc94619d249fe1b625aa094d678",
-    "contributor": "shivankacker",
-    "activity_definition": "commit_created",
-    "title": "Pushed commit to test/heathcare-services",
-    "occured_at": "2025-11-14T10:39:36.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/commit/d472bf0eacab9fc94619d249fe1b625aa094d678",
-    "text": "how is form state getting dirty",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "commit_created_test/heathcare-services_ef2fb9a1cc9a1e79d18a11093cee77f26eccf417",
-    "contributor": "shivankacker",
-    "activity_definition": "commit_created",
-    "title": "Pushed commit to test/heathcare-services",
-    "occured_at": "2025-11-14T10:25:50.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/commit/ef2fb9a1cc9a1e79d18a11093cee77f26eccf417",
-    "text": "just a test",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "commit_created_test/heathcare-services_dc8c0f3bd9761e5b5f21e337108e3a5a2f484f49",
-    "contributor": "shivankacker",
-    "activity_definition": "commit_created",
-    "title": "Pushed commit to test/heathcare-services",
-    "occured_at": "2025-11-14T10:10:36.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/commit/dc8c0f3bd9761e5b5f21e337108e3a5a2f484f49",
-    "text": "add wait before click",
     "points": null,
     "meta": {}
   }

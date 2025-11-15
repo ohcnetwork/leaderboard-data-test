@@ -22,17 +22,6 @@
     "meta": {}
   },
   {
-    "slug": "comment_created_leaderboard#610_IC_kwDOHYGCwM7Scuky",
-    "contributor": "dependabot[bot]",
-    "activity_definition": "comment_created",
-    "title": "Commented on #610",
-    "occured_at": "2025-11-14T04:08:51.000Z",
-    "link": "https://github.com/ohcnetwork/leaderboard/pull/610#issuecomment-3530746162",
-    "text": null,
-    "points": null,
-    "meta": {}
-  },
-  {
     "slug": "commit_created_add_viewsets_transactions_3402423332a90ebaa8ad9cfb9221aaf6047a3262",
     "contributor": "dependabot[bot]",
     "activity_definition": "commit_created",
@@ -95,6 +84,17 @@
     "occured_at": "2025-11-13T14:29:06.000Z",
     "link": "https://github.com/ohcnetwork/care/commit/3402423332a90ebaa8ad9cfb9221aaf6047a3262",
     "text": "chore(deps-dev): bump dirty-equals from 0.8.0 to 0.10.0 (#3342)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_leaderboard#610_IC_kwDOHYGCwM7Scuky",
+    "contributor": "dependabot[bot]",
+    "activity_definition": "comment_created",
+    "title": "Commented on #610",
+    "occured_at": "2025-11-14T04:08:51.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard/pull/610#issuecomment-3530746162",
+    "text": null,
     "points": null,
     "meta": {}
   }
