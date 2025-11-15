@@ -1,5 +1,27 @@
 [
   {
+    "slug": "pr_reviewed_care_fe#13940_COMMENTED_PRR_kwDODtfaXs7GW4WL",
+    "contributor": "GSMPRANEETH",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #13940",
+    "occured_at": "2025-10-11T23:13:30.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/13940#pullrequestreview-3327886731",
+    "text": "Icons and labels for `filter-tabs`",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#13750",
+    "contributor": "GSMPRANEETH",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #13750",
+    "occured_at": "2025-09-17T20:14:04.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/13750",
+    "text": "Implemented filter-tabs in pages in services",
+    "points": null,
+    "meta": {}
+  },
+  {
     "slug": "issue_opened_care_fe#14037",
     "contributor": "GSMPRANEETH",
     "activity_definition": "issue_opened",
@@ -7,17 +29,6 @@
     "occured_at": "2025-10-12T02:05:54.000Z",
     "link": "https://github.com/ohcnetwork/care_fe/issues/14037",
     "text": "Implement `filter-tabs` component in suitable pages",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "issue_opened_care_fe#13642",
-    "contributor": "GSMPRANEETH",
-    "activity_definition": "issue_opened",
-    "title": "Opened issue #13642",
-    "occured_at": "2025-09-07T02:27:57.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/issues/13642",
-    "text": "Descriptions of Definitions are not properly aligned in mobile view",
     "points": null,
     "meta": {}
   },
@@ -40,17 +51,6 @@
     "occured_at": "2025-10-22T06:53:30.000Z",
     "link": "https://github.com/ohcnetwork/care_fe/issues/14105",
     "text": "Queue page ui not proper in mobile view",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "issue_assigned_care_fe#13642_GSMPRANEETH",
-    "contributor": "GSMPRANEETH",
-    "activity_definition": "issue_assigned",
-    "title": "Issue #13642 assigned",
-    "occured_at": "2025-11-12T03:38:40.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/issues/13642",
-    "text": "Descriptions of Definitions are not properly aligned in mobile view",
     "points": null,
     "meta": {}
   },
@@ -149,17 +149,6 @@
     "title": "Reviewed PR #13940",
     "occured_at": "2025-10-11T23:12:22.000Z",
     "link": "https://github.com/ohcnetwork/care_fe/pull/13940#pullrequestreview-3327886467",
-    "text": "Icons and labels for `filter-tabs`",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "pr_reviewed_care_fe#13940_COMMENTED_PRR_kwDODtfaXs7GW4WL",
-    "contributor": "GSMPRANEETH",
-    "activity_definition": "pr_reviewed",
-    "title": "Reviewed PR #13940",
-    "occured_at": "2025-10-11T23:13:30.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/pull/13940#pullrequestreview-3327886731",
     "text": "Icons and labels for `filter-tabs`",
     "points": null,
     "meta": {}
@@ -502,17 +491,6 @@
     "occured_at": "2025-10-01T18:56:39.000Z",
     "link": "https://github.com/ohcnetwork/care_fe/pull/13921#pullrequestreview-3291713474",
     "text": "Modified filter-tabs in appointments and encounters pages",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "pr_opened_care_fe#13750",
-    "contributor": "GSMPRANEETH",
-    "activity_definition": "pr_opened",
-    "title": "Opened pull request #13750",
-    "occured_at": "2025-09-17T20:14:04.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/pull/13750",
-    "text": "Implemented filter-tabs in pages in services",
     "points": null,
     "meta": {}
   },
@@ -1221,6 +1199,72 @@
     "meta": {}
   },
   {
+    "slug": "issue_opened_care_fe#14360",
+    "contributor": "GSMPRANEETH",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14360",
+    "occured_at": "2025-11-15T06:27:10.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14360",
+    "text": "Create Observation form does not work properly",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#13642",
+    "contributor": "GSMPRANEETH",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #13642",
+    "occured_at": "2025-09-07T07:57:57.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13642",
+    "text": "Descriptions of Definitions are not properly aligned in mobile view",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_closed_care_fe#13642",
+    "contributor": "GSMPRANEETH",
+    "activity_definition": "issue_closed",
+    "title": "Closed issue #13642",
+    "occured_at": "2025-11-15T06:18:07.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13642",
+    "text": "Descriptions of Definitions are not properly aligned in mobile view",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#14359",
+    "contributor": "GSMPRANEETH",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14359",
+    "occured_at": "2025-11-15T05:55:29.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14359",
+    "text": "Invoice can be issued without any charge items",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#13930",
+    "contributor": "GSMPRANEETH",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #13930",
+    "occured_at": "2025-10-02T03:56:16.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13930",
+    "text": "After editing a form, user is redirected back to listing page rather than details page",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#14038",
+    "contributor": "GSMPRANEETH",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14038",
+    "occured_at": "2025-10-12T07:38:37.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14038",
+    "text": "Implement `nav-tabs` component in suitable pages",
+    "points": null,
+    "meta": {}
+  },
+  {
     "slug": "issue_opened_care_fe#14167",
     "contributor": "GSMPRANEETH",
     "activity_definition": "issue_opened",
@@ -1250,6 +1294,72 @@
     "occured_at": "2025-10-17T17:00:00.000Z",
     "link": "https://github.com/ohcnetwork/care_fe/issues/14077",
     "text": "Bug: Accessibility warning due to aria-hidden focus conflict",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#13642_GSMPRANEETH",
+    "contributor": "GSMPRANEETH",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #13642 assigned",
+    "occured_at": "2025-11-12T09:08:40.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13642",
+    "text": "Descriptions of Definitions are not properly aligned in mobile view",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#14038_GSMPRANEETH",
+    "contributor": "GSMPRANEETH",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14038 assigned",
+    "occured_at": "2025-10-21T07:49:58.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14038",
+    "text": "Implement `nav-tabs` component in suitable pages",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14360_IC_kwDODtfaXs7SxKGf",
+    "contributor": "GSMPRANEETH",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14360",
+    "occured_at": "2025-11-15T06:32:50.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14360#issuecomment-3536101791",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#13642_IC_kwDODtfaXs7SxF1_",
+    "contributor": "GSMPRANEETH",
+    "activity_definition": "comment_created",
+    "title": "Commented on #13642",
+    "occured_at": "2025-11-15T06:18:07.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13642#issuecomment-3536084351",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#14359_IC_kwDODtfaXs7SxAK_",
+    "contributor": "GSMPRANEETH",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14359",
+    "occured_at": "2025-11-15T05:57:34.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14359#issuecomment-3536061119",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "comment_created_care_fe#13930_IC_kwDODtfaXs7Sw8_c",
+    "contributor": "GSMPRANEETH",
+    "activity_definition": "comment_created",
+    "title": "Commented on #13930",
+    "occured_at": "2025-11-15T05:48:14.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13930#issuecomment-3536048092",
+    "text": null,
     "points": null,
     "meta": {}
   }

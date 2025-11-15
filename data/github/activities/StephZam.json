@@ -121,17 +121,6 @@
     "meta": {}
   },
   {
-    "slug": "pr_opened_care_fe#13968",
-    "contributor": "StephZam",
-    "activity_definition": "pr_opened",
-    "title": "Opened pull request #13968",
-    "occured_at": "2025-10-05T23:56:21.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/pull/13968",
-    "text": "Facility Organization Selector Redesigned",
-    "points": null,
-    "meta": {}
-  },
-  {
     "slug": "commit_created_copilot/fix-info-text-alignment-mobile_9768069e330a5ecc16bc9cf700d58c1e9d9a661a",
     "contributor": "StephZam",
     "activity_definition": "commit_created",
@@ -198,6 +187,50 @@
     "meta": {}
   },
   {
+    "slug": "issue_opened_care_fe#14342",
+    "contributor": "StephZam",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14342",
+    "occured_at": "2025-11-14T09:17:00.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14342",
+    "text": "Questionnaire title disappears after refreshing",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#14342_StephZam",
+    "contributor": "StephZam",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14342 assigned",
+    "occured_at": "2025-11-14T09:17:33.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14342",
+    "text": "Questionnaire title disappears after refreshing",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#13526",
+    "contributor": "StephZam",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #13526",
+    "occured_at": "2025-08-26T13:07:51.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/13526",
+    "text": "fix: Resizable Feature for Dept/team Listing Page",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_opened_care_fe#14312",
+    "contributor": "StephZam",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #14312",
+    "occured_at": "2025-11-12T11:21:34.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14312",
+    "text": "Removed unnecessary scrollbars in notes tab and Encounters",
+    "points": null,
+    "meta": {}
+  },
+  {
     "slug": "issue_opened_care_fe#14286",
     "contributor": "StephZam",
     "activity_definition": "issue_opened",
@@ -227,17 +260,6 @@
     "occured_at": "2025-10-27T09:25:42.000Z",
     "link": "https://github.com/ohcnetwork/care_fe/issues/14150",
     "text": "clear cache button in profile",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "issue_opened_care_fe#14342",
-    "contributor": "StephZam",
-    "activity_definition": "issue_opened",
-    "title": "Opened issue #14342",
-    "occured_at": "2025-11-14T09:17:00.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/issues/14342",
-    "text": "Questionnaire title disappears after refreshing",
     "points": null,
     "meta": {}
   },
@@ -275,13 +297,13 @@
     "meta": {}
   },
   {
-    "slug": "issue_assigned_care_fe#14342_StephZam",
+    "slug": "pr_opened_care_fe#13968",
     "contributor": "StephZam",
-    "activity_definition": "issue_assigned",
-    "title": "Issue #14342 assigned",
-    "occured_at": "2025-11-14T09:17:33.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/issues/14342",
-    "text": "Questionnaire title disappears after refreshing",
+    "activity_definition": "pr_opened",
+    "title": "Opened pull request #13968",
+    "occured_at": "2025-10-06T05:26:21.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/13968",
+    "text": "Facility Organization Selector Redesigned",
     "points": null,
     "meta": {}
   },
@@ -337,28 +359,6 @@
     "occured_at": "2025-10-29T14:00:10.000Z",
     "link": "https://github.com/ohcnetwork/care_fe/pull/14183",
     "text": "fixed manage charges",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "pr_opened_care_fe#13526",
-    "contributor": "StephZam",
-    "activity_definition": "pr_opened",
-    "title": "Opened pull request #13526",
-    "occured_at": "2025-08-26T13:07:51.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/pull/13526",
-    "text": "fix: Resizable Feature for Dept/team Listing Page",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "pr_opened_care_fe#14312",
-    "contributor": "StephZam",
-    "activity_definition": "pr_opened",
-    "title": "Opened pull request #14312",
-    "occured_at": "2025-11-12T11:21:34.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/pull/14312",
-    "text": "Removed unnecessary scrollbars in notes tab and Encounters",
     "points": null,
     "meta": {}
   }
