@@ -1,16 +1,5 @@
 [
   {
-    "slug": "issue_opened_care_fe#13865",
-    "contributor": "Akhileswaran-K-R",
-    "activity_definition": "issue_opened",
-    "title": "Opened issue #13865",
-    "occured_at": "2025-09-26T10:31:03.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/issues/13865",
-    "text": "Product definition is not getting deleted",
-    "points": null,
-    "meta": {}
-  },
-  {
     "slug": "issue_assigned_care_fe#13784_Akhileswaran-K-R",
     "contributor": "Akhileswaran-K-R",
     "activity_definition": "issue_assigned",
@@ -51,6 +40,17 @@
     "occured_at": "2025-10-31T23:15:06.000Z",
     "link": "https://github.com/ohcnetwork/care_fe/commit/b3e649e279090ab5a67380ba1248d294022874e1",
     "text": "Made the cards clickable (#13888)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#13865",
+    "contributor": "Akhileswaran-K-R",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #13865",
+    "occured_at": "2025-09-26T16:01:03.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13865",
+    "text": "Product definition is not getting deleted",
     "points": null,
     "meta": {}
   }

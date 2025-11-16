@@ -1,5 +1,16 @@
 [
   {
+    "slug": "pr_reviewed_care-plugin-cookiecutter#2_APPROVED_PRR_kwDOLtaZE87N0NyQ",
+    "contributor": "sainak",
+    "activity_definition": "pr_reviewed",
+    "title": "Approved PR #2",
+    "occured_at": "2025-11-12T06:12:21.000Z",
+    "link": "https://github.com/ohcnetwork/care-plugin-cookiecutter/pull/2#pullrequestreview-3453017232",
+    "text": "Adding new template",
+    "points": null,
+    "meta": {}
+  },
+  {
     "slug": "pr_opened_care_fe#14307",
     "contributor": "sainak",
     "activity_definition": "pr_opened",
@@ -270,17 +281,6 @@
     "title": "Changes requested on PR #2",
     "occured_at": "2024-12-09T01:00:37.000Z",
     "link": "https://github.com/ohcnetwork/care-plugin-cookiecutter/pull/2#pullrequestreview-2487861061",
-    "text": "Adding new template",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "pr_reviewed_care-plugin-cookiecutter#2_APPROVED_PRR_kwDOLtaZE87N0NyQ",
-    "contributor": "sainak",
-    "activity_definition": "pr_reviewed",
-    "title": "Approved PR #2",
-    "occured_at": "2025-11-12T06:12:21.000Z",
-    "link": "https://github.com/ohcnetwork/care-plugin-cookiecutter/pull/2#pullrequestreview-3453017232",
     "text": "Adding new template",
     "points": null,
     "meta": {}

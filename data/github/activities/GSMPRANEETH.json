@@ -1,5 +1,16 @@
 [
   {
+    "slug": "pr_reviewed_care_fe#13940_COMMENTED_PRR_kwDODtfaXs7GW9M2",
+    "contributor": "GSMPRANEETH",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #13940",
+    "occured_at": "2025-10-12T00:22:00.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/13940#pullrequestreview-3327906614",
+    "text": "Icons and labels for `filter-tabs`",
+    "points": null,
+    "meta": {}
+  },
+  {
     "slug": "pr_reviewed_care_fe#13940_COMMENTED_PRR_kwDODtfaXs7GW4WL",
     "contributor": "GSMPRANEETH",
     "activity_definition": "pr_reviewed",
@@ -149,17 +160,6 @@
     "title": "Reviewed PR #13940",
     "occured_at": "2025-10-11T23:12:22.000Z",
     "link": "https://github.com/ohcnetwork/care_fe/pull/13940#pullrequestreview-3327886467",
-    "text": "Icons and labels for `filter-tabs`",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "pr_reviewed_care_fe#13940_COMMENTED_PRR_kwDODtfaXs7GW9M2",
-    "contributor": "GSMPRANEETH",
-    "activity_definition": "pr_reviewed",
-    "title": "Reviewed PR #13940",
-    "occured_at": "2025-10-12T00:22:00.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/pull/13940#pullrequestreview-3327906614",
     "text": "Icons and labels for `filter-tabs`",
     "points": null,
     "meta": {}
@@ -1199,13 +1199,46 @@
     "meta": {}
   },
   {
-    "slug": "issue_opened_care_fe#14360",
+    "slug": "issue_opened_care_fe#14167",
     "contributor": "GSMPRANEETH",
     "activity_definition": "issue_opened",
-    "title": "Opened issue #14360",
-    "occured_at": "2025-11-15T06:27:10.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/issues/14360",
-    "text": "Create Observation form does not work properly",
+    "title": "Opened issue #14167",
+    "occured_at": "2025-10-28T13:13:22.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14167",
+    "text": "Same list of orgs shown in pagination",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#14107",
+    "contributor": "GSMPRANEETH",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14107",
+    "occured_at": "2025-10-22T13:41:14.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14107",
+    "text": "Truncate large usernames in patients search and other pages",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#14359",
+    "contributor": "GSMPRANEETH",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14359",
+    "occured_at": "2025-11-15T05:55:29.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14359",
+    "text": "Invoice can be issued without any charge items",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#14077",
+    "contributor": "GSMPRANEETH",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14077",
+    "occured_at": "2025-10-17T17:00:00.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14077",
+    "text": "Bug: Accessibility warning due to aria-hidden focus conflict",
     "points": null,
     "meta": {}
   },
@@ -1232,13 +1265,13 @@
     "meta": {}
   },
   {
-    "slug": "issue_opened_care_fe#14359",
+    "slug": "issue_opened_care_fe#14360",
     "contributor": "GSMPRANEETH",
     "activity_definition": "issue_opened",
-    "title": "Opened issue #14359",
-    "occured_at": "2025-11-15T05:55:29.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/issues/14359",
-    "text": "Invoice can be issued without any charge items",
+    "title": "Opened issue #14360",
+    "occured_at": "2025-11-15T06:27:10.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14360",
+    "text": "Create Observation form does not work properly",
     "points": null,
     "meta": {}
   },
@@ -1265,35 +1298,13 @@
     "meta": {}
   },
   {
-    "slug": "issue_opened_care_fe#14167",
+    "slug": "issue_assigned_care_fe#14359_GSMPRANEETH",
     "contributor": "GSMPRANEETH",
-    "activity_definition": "issue_opened",
-    "title": "Opened issue #14167",
-    "occured_at": "2025-10-28T13:13:22.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/issues/14167",
-    "text": "Same list of orgs shown in pagination",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "issue_opened_care_fe#14107",
-    "contributor": "GSMPRANEETH",
-    "activity_definition": "issue_opened",
-    "title": "Opened issue #14107",
-    "occured_at": "2025-10-22T13:41:14.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/issues/14107",
-    "text": "Truncate large usernames in patients search and other pages",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "issue_opened_care_fe#14077",
-    "contributor": "GSMPRANEETH",
-    "activity_definition": "issue_opened",
-    "title": "Opened issue #14077",
-    "occured_at": "2025-10-17T17:00:00.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/issues/14077",
-    "text": "Bug: Accessibility warning due to aria-hidden focus conflict",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14359 assigned",
+    "occured_at": "2025-11-15T17:16:26.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14359",
+    "text": "Invoice can be issued without any charge items",
     "points": null,
     "meta": {}
   },

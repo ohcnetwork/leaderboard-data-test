@@ -97,5 +97,16 @@
     "text": null,
     "points": null,
     "meta": {}
+  },
+  {
+    "slug": "commit_created_main_59063bf7d3a213a6a754483fe4d6869f1bb7e823",
+    "contributor": "dependabot[bot]",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to main",
+    "occured_at": "2025-11-15T18:26:29.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard/commit/59063bf7d3a213a6a754483fe4d6869f1bb7e823",
+    "text": "Bump js-yaml from 4.1.0 to 4.1.1 (#633)",
+    "points": null,
+    "meta": {}
   }
 ]

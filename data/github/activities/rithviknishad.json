@@ -396,6 +396,17 @@
     "meta": {}
   },
   {
+    "slug": "comment_created_leaderboard#405_IC_kwDOHYGCwM7ScxKT",
+    "contributor": "rithviknishad",
+    "activity_definition": "comment_created",
+    "title": "Commented on #405",
+    "occured_at": "2025-11-14T04:15:17.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard/issues/405#issuecomment-3530756755",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
     "slug": "commit_created_v2_403a7a683e59f26ca1b965e39d15f9e3196da616",
     "contributor": "rithviknishad",
     "activity_definition": "commit_created",
@@ -843,50 +854,6 @@
     "occured_at": "2025-11-11T06:12:11.000Z",
     "link": "https://github.com/ohcnetwork/care_fe/pull/14122#pullrequestreview-3447668631",
     "text": "Add Playwright tests for creating and managing encounters",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "pr_reviewed_care_fe#14288_APPROVED_PRR_kwDODtfaXs7NMNZf",
-    "contributor": "rithviknishad",
-    "activity_definition": "pr_reviewed",
-    "title": "Approved PR #14288",
-    "occured_at": "2025-11-10T05:39:27.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/pull/14288#pullrequestreview-3442529887",
-    "text": "playwright test to delete healthcare service",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "pr_reviewed_care_fe#14104_COMMENTED_PRR_kwDODtfaXs7JsuNh",
-    "contributor": "rithviknishad",
-    "activity_definition": "pr_reviewed",
-    "title": "Reviewed PR #14104",
-    "occured_at": "2025-10-27T09:25:03.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/pull/14104#pullrequestreview-3383944033",
-    "text": "added refresh button in profile page",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "pr_reviewed_care_fe#14104_APPROVED_PRR_kwDODtfaXs7KXIIl",
-    "contributor": "rithviknishad",
-    "activity_definition": "pr_reviewed",
-    "title": "Approved PR #14104",
-    "occured_at": "2025-10-29T12:30:31.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/pull/14104#pullrequestreview-3395060261",
-    "text": "added refresh button in profile page",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "pr_reviewed_care_fe#14104_APPROVED_PRR_kwDODtfaXs7Lf_b0",
-    "contributor": "rithviknishad",
-    "activity_definition": "pr_reviewed",
-    "title": "Approved PR #14104",
-    "occured_at": "2025-11-04T00:19:32.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/pull/14104#pullrequestreview-3414161140",
-    "text": "added refresh button in profile page",
     "points": null,
     "meta": {}
   },
@@ -1617,6 +1584,17 @@
     "meta": {}
   },
   {
+    "slug": "comment_created_leaderboard#373_IC_kwDOHYGCwM7ScwZv",
+    "contributor": "rithviknishad",
+    "activity_definition": "comment_created",
+    "title": "Commented on #373",
+    "occured_at": "2025-11-14T04:13:33.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard/issues/373#issuecomment-3530753647",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
     "slug": "commit_created_playwright-auto-test-db_284370006590d61410684c77e2f93b92116c68dd",
     "contributor": "rithviknishad",
     "activity_definition": "commit_created",
@@ -1936,28 +1914,6 @@
     "meta": {}
   },
   {
-    "slug": "comment_created_leaderboard#405_IC_kwDOHYGCwM7ScxKT",
-    "contributor": "rithviknishad",
-    "activity_definition": "comment_created",
-    "title": "Commented on #405",
-    "occured_at": "2025-11-14T04:15:17.000Z",
-    "link": "https://github.com/ohcnetwork/leaderboard/issues/405#issuecomment-3530756755",
-    "text": null,
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "comment_created_leaderboard#373_IC_kwDOHYGCwM7ScwZv",
-    "contributor": "rithviknishad",
-    "activity_definition": "comment_created",
-    "title": "Commented on #373",
-    "occured_at": "2025-11-14T04:13:33.000Z",
-    "link": "https://github.com/ohcnetwork/leaderboard/issues/373#issuecomment-3530753647",
-    "text": null,
-    "points": null,
-    "meta": {}
-  },
-  {
     "slug": "comment_created_leaderboard#250_IC_kwDOHYGCwM7ScwM1",
     "contributor": "rithviknishad",
     "activity_definition": "comment_created",
@@ -2200,6 +2156,105 @@
     "meta": {}
   },
   {
+    "slug": "issue_opened_leaderboard#634",
+    "contributor": "rithviknishad",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #634",
+    "occured_at": "2025-11-15T18:41:24.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard/issues/634",
+    "text": "Script to initialize data repository",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_leaderboard#633_APPROVED_PRR_kwDOHYGCwM7OuZcb",
+    "contributor": "rithviknishad",
+    "activity_definition": "pr_reviewed",
+    "title": "Approved PR #633",
+    "occured_at": "2025-11-15T18:26:22.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard/pull/633#pullrequestreview-3468269339",
+    "text": "Bump js-yaml from 4.1.0 to 4.1.1",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_main_bb9823a8976f93cdcb2b1c08b03bfe97510557c2",
+    "contributor": "rithviknishad",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to main",
+    "occured_at": "2025-11-15T18:39:38.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard/commit/bb9823a8976f93cdcb2b1c08b03bfe97510557c2",
+    "text": "upgrade packages",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_closed_care_fe#14363",
+    "contributor": "rithviknishad",
+    "activity_definition": "issue_closed",
+    "title": "Closed issue #14363",
+    "occured_at": "2025-11-15T13:11:24.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14363",
+    "text": "There is a  duplicate 'Appointment' option in questionnaire structured field",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14344_CHANGES_REQUESTED_PRR_kwDODtfaXs7OuYrF",
+    "contributor": "rithviknishad",
+    "activity_definition": "pr_reviewed",
+    "title": "Changes requested on PR #14344",
+    "occured_at": "2025-11-15T18:20:18.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14344#pullrequestreview-3468266181",
+    "text": "fix: questionnaire title in Responses tab",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14104_COMMENTED_PRR_kwDODtfaXs7JsuNh",
+    "contributor": "rithviknishad",
+    "activity_definition": "pr_reviewed",
+    "title": "Reviewed PR #14104",
+    "occured_at": "2025-10-27T14:55:03.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14104#pullrequestreview-3383944033",
+    "text": "added refresh button in profile page",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14104_APPROVED_PRR_kwDODtfaXs7KXIIl",
+    "contributor": "rithviknishad",
+    "activity_definition": "pr_reviewed",
+    "title": "Approved PR #14104",
+    "occured_at": "2025-10-29T18:00:31.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14104#pullrequestreview-3395060261",
+    "text": "added refresh button in profile page",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14104_APPROVED_PRR_kwDODtfaXs7Lf_b0",
+    "contributor": "rithviknishad",
+    "activity_definition": "pr_reviewed",
+    "title": "Approved PR #14104",
+    "occured_at": "2025-11-04T05:49:32.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14104#pullrequestreview-3414161140",
+    "text": "added refresh button in profile page",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14288_APPROVED_PRR_kwDODtfaXs7NMNZf",
+    "contributor": "rithviknishad",
+    "activity_definition": "pr_reviewed",
+    "title": "Approved PR #14288",
+    "occured_at": "2025-11-10T11:09:27.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14288#pullrequestreview-3442529887",
+    "text": "playwright test to delete healthcare service",
+    "points": null,
+    "meta": {}
+  },
+  {
     "slug": "pr_reviewed_care_fe#14183_CHANGES_REQUESTED_PRR_kwDODtfaXs7KXMlv",
     "contributor": "rithviknishad",
     "activity_definition": "pr_reviewed",
@@ -2229,6 +2284,17 @@
     "occured_at": "2025-11-10T05:50:45.000Z",
     "link": "https://github.com/ohcnetwork/care_fe/pull/14183#pullrequestreview-3440976820",
     "text": "fixed manage charges",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "pr_reviewed_care_fe#14362_APPROVED_PRR_kwDODtfaXs7OtjvD",
+    "contributor": "rithviknishad",
+    "activity_definition": "pr_reviewed",
+    "title": "Approved PR #14362",
+    "occured_at": "2025-11-15T12:44:16.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/pull/14362#pullrequestreview-3468049347",
+    "text": "Remove Duplicate 'Appointment' option from structured form",
     "points": null,
     "meta": {}
   }

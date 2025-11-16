@@ -638,6 +638,28 @@
     "meta": {}
   },
   {
+    "slug": "commit_created_master_c3df88dfecc6d38d5e6f7fb6e9be00e21a6de3f4",
+    "contributor": "NikhilA8606",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to master",
+    "occured_at": "2025-11-14T12:26:32.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard-data-test-2/commit/c3df88dfecc6d38d5e6f7fb6e9be00e21a6de3f4",
+    "text": "Renitialized repo",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "commit_created_master_cb824d55c8eb41f66093636031a215272bf167e8",
+    "contributor": "NikhilA8606",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to master",
+    "occured_at": "2025-11-14T12:24:12.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard-data-test-2/commit/cb824d55c8eb41f66093636031a215272bf167e8",
+    "text": "Renitialized repo",
+    "points": null,
+    "meta": {}
+  },
+  {
     "slug": "commit_created_master_69863969e1bceffccc9d5e349e14ca0e0cb07d57",
     "contributor": "NikhilA8606",
     "activity_definition": "commit_created",
@@ -667,28 +689,6 @@
     "occured_at": "2025-11-15T06:03:29.000Z",
     "link": "https://github.com/ohcnetwork/leaderboard-data-test-2/commit/f5f27f5f294845981e9fa49013d20d9452aef361",
     "text": "testing",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "commit_created_master_c3df88dfecc6d38d5e6f7fb6e9be00e21a6de3f4",
-    "contributor": "NikhilA8606",
-    "activity_definition": "commit_created",
-    "title": "Pushed commit to master",
-    "occured_at": "2025-11-14T12:26:32.000Z",
-    "link": "https://github.com/ohcnetwork/leaderboard-data-test-2/commit/c3df88dfecc6d38d5e6f7fb6e9be00e21a6de3f4",
-    "text": "Renitialized repo",
-    "points": null,
-    "meta": {}
-  },
-  {
-    "slug": "commit_created_master_cb824d55c8eb41f66093636031a215272bf167e8",
-    "contributor": "NikhilA8606",
-    "activity_definition": "commit_created",
-    "title": "Pushed commit to master",
-    "occured_at": "2025-11-14T12:24:12.000Z",
-    "link": "https://github.com/ohcnetwork/leaderboard-data-test-2/commit/cb824d55c8eb41f66093636031a215272bf167e8",
-    "text": "Renitialized repo",
     "points": null,
     "meta": {}
   }

@@ -10,5 +10,11 @@
     "user_id": "U0903NGHLTT",
     "timestamp": "2025-11-14T06:35:48.670Z",
     "text": "nov 13:<br>• worked on <a href=\"https://github.com/ohcnetwork/care_fe/pull/14324\">feat: Added Tags for Delivery Orders #14324</a> and its playwright test<br>next:<br>• waiting for existing PRs to be reviewed and tested"
+  },
+  {
+    "id": 1763222523319,
+    "user_id": "U0903NGHLTT",
+    "timestamp": "2025-11-15T16:02:03.319Z",
+    "text": "nov 14:<br>• raised pr: <a href=\"https://github.com/ohcnetwork/care_fe/pull/14344\">PR#14344</a> <br>• fixed playwright test of <a href=\"https://github.com/ohcnetwork/care_fe/pull/14324\">PR#14324</a> <br>• made changes in <a href=\"https://github.com/ohcnetwork/care_fe/pull/13526\">PR#13526</a><br>next:<br>• make required changes in existing PRs "
   }
 ]

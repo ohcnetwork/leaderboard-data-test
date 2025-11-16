@@ -97,5 +97,16 @@
     "text": "Bump js-yaml from 4.1.0 to 4.1.1",
     "points": null,
     "meta": {}
+  },
+  {
+    "slug": "pr_merged_leaderboard#633",
+    "contributor": "dependabot",
+    "activity_definition": "pr_merged",
+    "title": "Merged pull request #633",
+    "occured_at": "2025-11-15T18:26:29.000Z",
+    "link": "https://github.com/ohcnetwork/leaderboard/pull/633",
+    "text": "Bump js-yaml from 4.1.0 to 4.1.1",
+    "points": null,
+    "meta": {}
   }
 ]

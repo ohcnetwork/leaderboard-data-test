@@ -20,5 +20,16 @@
     "text": "deploy: 01e6cf8719a4c07645e942e9041d455707520505",
     "points": null,
     "meta": {}
+  },
+  {
+    "slug": "commit_created_gh-pages_eb904b06a4281eb2d3d4ad8ac13ca112b5c451c8",
+    "contributor": "tellmeY18",
+    "activity_definition": "commit_created",
+    "title": "Pushed commit to gh-pages",
+    "occured_at": "2025-11-15T18:39:49.000Z",
+    "link": "https://github.com/ohcnetwork/care_sbom/commit/eb904b06a4281eb2d3d4ad8ac13ca112b5c451c8",
+    "text": "deploy: 7e814ec0a6aaaae379481e1abbaf038a40fbb127",
+    "points": null,
+    "meta": {}
   }
 ]

@@ -1,5 +1,16 @@
 [
   {
+    "slug": "comment_created_care_fe#14328_IC_kwDODtfaXs7SSTT6",
+    "contributor": "Ishu813",
+    "activity_definition": "comment_created",
+    "title": "Commented on #14328",
+    "occured_at": "2025-11-13T14:11:26.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14328#issuecomment-3528013050",
+    "text": null,
+    "points": null,
+    "meta": {}
+  },
+  {
     "slug": "issue_assigned_care_fe#13956_Ishu813",
     "contributor": "Ishu813",
     "activity_definition": "issue_assigned",
@@ -99,17 +110,6 @@
     "meta": {}
   },
   {
-    "slug": "comment_created_care_fe#14328_IC_kwDODtfaXs7SSTT6",
-    "contributor": "Ishu813",
-    "activity_definition": "comment_created",
-    "title": "Commented on #14328",
-    "occured_at": "2025-11-13T14:11:26.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/issues/14328#issuecomment-3528013050",
-    "text": null,
-    "points": null,
-    "meta": {}
-  },
-  {
     "slug": "commit_created_Sudheendra_3d5279ea5cfe898dc226d47254127b518f4283c4",
     "contributor": "Ishu813",
     "activity_definition": "commit_created",
@@ -165,17 +165,6 @@
     "meta": {}
   },
   {
-    "slug": "issue_assigned_care_fe#14328_Ishu813",
-    "contributor": "Ishu813",
-    "activity_definition": "issue_assigned",
-    "title": "Issue #14328 assigned",
-    "occured_at": "2025-11-14T07:42:03.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/issues/14328",
-    "text": "Location not shown when recording payment for reception staff with multiple location access",
-    "points": null,
-    "meta": {}
-  },
-  {
     "slug": "pr_opened_care_fe#14213",
     "contributor": "Ishu813",
     "activity_definition": "pr_opened",
@@ -216,6 +205,17 @@
     "occured_at": "2025-11-14T13:28:19.000Z",
     "link": "https://github.com/ohcnetwork/care_fe/pull/14345",
     "text": "Fix LocationPicker fetch logic to display correct accessible locations",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#14328_Ishu813",
+    "contributor": "Ishu813",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #14328 assigned",
+    "occured_at": "2025-11-14T07:42:03.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14328",
+    "text": "Location not shown when recording payment for reception staff with multiple location access",
     "points": null,
     "meta": {}
   }

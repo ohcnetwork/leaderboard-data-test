@@ -11,17 +11,6 @@
     "meta": {}
   },
   {
-    "slug": "issue_opened_care_fe#14025",
-    "contributor": "geyamrutha16",
-    "activity_definition": "issue_opened",
-    "title": "Opened issue #14025",
-    "occured_at": "2025-10-10T01:00:27.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/issues/14025",
-    "text": "“Last Active” Label Extends Outside User Card",
-    "points": null,
-    "meta": {}
-  },
-  {
     "slug": "issue_opened_care_fe#14040",
     "contributor": "geyamrutha16",
     "activity_definition": "issue_opened",
@@ -143,17 +132,6 @@
     "meta": {}
   },
   {
-    "slug": "issue_assigned_care_fe#13463_geyamrutha16",
-    "contributor": "geyamrutha16",
-    "activity_definition": "issue_assigned",
-    "title": "Issue #13463 assigned",
-    "occured_at": "2025-10-29T11:52:17.000Z",
-    "link": "https://github.com/ohcnetwork/care_fe/issues/13463",
-    "text": "Validation error persists after changing Contact Point type in Add Device form",
-    "points": null,
-    "meta": {}
-  },
-  {
     "slug": "commit_created_Sudheendra_1327e866009a10e372df01720a4fab8b6bcbcb21",
     "contributor": "geyamrutha16",
     "activity_definition": "commit_created",
@@ -183,6 +161,28 @@
     "occured_at": "2025-11-07T00:14:42.000Z",
     "link": "https://github.com/ohcnetwork/care_fe/commit/1327e866009a10e372df01720a4fab8b6bcbcb21",
     "text": "Trim whitespace in DiscountCodeForm before validation (#14115)",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_opened_care_fe#14025",
+    "contributor": "geyamrutha16",
+    "activity_definition": "issue_opened",
+    "title": "Opened issue #14025",
+    "occured_at": "2025-10-10T06:30:27.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/14025",
+    "text": "“Last Active” Label Extends Outside User Card",
+    "points": null,
+    "meta": {}
+  },
+  {
+    "slug": "issue_assigned_care_fe#13463_geyamrutha16",
+    "contributor": "geyamrutha16",
+    "activity_definition": "issue_assigned",
+    "title": "Issue #13463 assigned",
+    "occured_at": "2025-10-29T11:52:17.000Z",
+    "link": "https://github.com/ohcnetwork/care_fe/issues/13463",
+    "text": "Validation error persists after changing Contact Point type in Add Device form",
     "points": null,
     "meta": {}
   }
